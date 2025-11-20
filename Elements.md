@@ -12,6 +12,8 @@ _Combustion/ashing_
 
 The code ‘CB’ (previously ‘CBST’) has been used as a catch-all for combustion or ashing at a range of temperatures, and is a common prefix for multi-acid digests, indicating a heating step used to oxidize organics. The most common temperature is around 500/550 degrees C, which should perhaps more accurately be called ashing, especially since it is the ash powder that is used for the next step of the analysis. However, there are also examples of treatment up to 900 degrees C, or acid treatment after “LOI”, and for now all of these are lumped in together. ‘Calcination’ is also sometimes specified, and lumped in with the ‘CB’ code.
 
+This step usually takes place BEFORE acid treatments, but in some cases, the sequence is Acid-Combustion-Acid. See for example Sun et al. 2025. For the moment, this is lumped together with CB\_ methods.
+
 _Fusion_
 
 Flux **fusion** (usually with lithium borate of some description) is a common digestion method. Note that the base codes for fusion digestion methods are generally the same, whether or not a glass bead is prepared for XRF (see below) or a subsequent acid digestion is used to prepare the sample for ICP:MS. (One exception specifies the HNO3 digest prior to ICP:MS, since the information was available).
