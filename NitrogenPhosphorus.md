@@ -22,19 +22,19 @@ In SGP we have no code for the first SEDEX step, which is for modern sediments, 
 
 SGP codes for the older (Ruttenberg) method are
 
-- SeqAphos
-- SeqBphos
-- SeqCphos
-- SeqDphos
+- SeqAphos (analyte: P-Fe1(seq))
+- SeqBphos (analyte: P-auth(seq))
+- SeqCphos (analyte: P-auth(seq))
+- SeqDphos (analyte: P-det(seq))
 
 SGP codes for the newer (Thompson) method are
 
-- SeqAphos
-- SeqBphos
-- SeqCphos
-- SeqDphos(mod)
-- SeqEphos(mod)
-- SeqFphos(mod)
+- SeqAphos (analyte: P-Fe1(seq))
+- SeqBphos (analyte: P-auth(seq))
+- SeqCphos (analyte: P-auth(seq))
+- SeqDphos(mod) (analyte: P-mag(seq))
+- SeqEphos(mod) (analyte: P-Fe2(seq))
+- SeqFphos(mod) (analyte: P-org(seq))
 
 The first three steps are shared. SeqFphos(mod) is the same procedure as SeqDphos, but in a different place sequentially.
 
@@ -42,13 +42,15 @@ Beaty et al. 2025 combined early steps, refering to Anderson and Delaney 2000. T
 
 In SGP we have therefore added this code:
 
-- SeqABphos (P-Fe1+auth(seq) extracted together)
+- SeqABphos (analyte: P-Fe1+auth(seq))
 
-Any sum of components is stored in the proxy table, not presented on the website in Phase2. These include:
+Any sum of components is stored in the proxy table (and not presented on the website). These include:
 
 - P-FeT = P-Fe1+P-mag+P-Fe2
 - P-react = P-Fe+P-auth+P-org
 - P-tot = P-Fe1+P-auth+P-mag+P-Fe2+P-det+P-org
+
+- P-react(CONVEX) = P-Ca + P-AlFe
 
 There is variability in how analytes are reported in papers, especially P-fe/Fe1 and P-det.
 
@@ -69,7 +71,10 @@ The resulting SGP codes for these modifications include
 - SeqResPhos - for the P extracted with a final total multi-acid (MA3) digest after sequential steps.
 
 **CONVEX**
-Some P data in SGP is measured using a modified "CONVEX" (Conversion Extraction) method, based on Oxmann et al. 2008. This is coded as two-steps, the first targetting Al∕Fe-oxyhydroxide-bound phosphorus and the second Ca-bound phosphorus
+Some P data in SGP is measured using a modified "CONVEX" (Conversion Extraction) method, based on Oxmann et al. 2008. This is coded as two-steps, the first targetting Al∕Fe-oxyhydroxide-bound phosphorus and the second Ca-bound phosphorus.
+
+- ConvexA (analyte: P-AlFe)
+- ConvexB (analyte: P-Ca)
 
 | analyte(s)  | count_res | code                | translation                                                  | ana_method(s) |
 | ----------- | --------- | ------------------- | ------------------------------------------------------------ | ------------- |
