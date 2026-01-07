@@ -24,14 +24,14 @@ SGP codes for the older (Ruttenberg) method are
 
 - SeqAphos (analyte: P-Fe1(seq))
 - SeqBphos (analyte: P-auth(seq))
-- SeqCphos (analyte: P-auth(seq))
-- SeqDphos (analyte: P-det(seq))
+- SeqCphos (analyte: P-det(seq))
+- SeqDphos (analyte: P-org(seq))
 
 SGP codes for the newer (Thompson) method are
 
 - SeqAphos (analyte: P-Fe1(seq))
 - SeqBphos (analyte: P-auth(seq))
-- SeqCphos (analyte: P-auth(seq))
+- SeqCphos (analyte: P-det(seq))
 - SeqDphos(mod) (analyte: P-mag(seq))
 - SeqEphos(mod) (analyte: P-Fe2(seq))
 - SeqFphos(mod) (analyte: P-org(seq))
