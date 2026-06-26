@@ -1,0 +1,598 @@
+analyte_code,analyte_translation,analyte_desc,atomic_num,weight,preferred_unit,api_code,category,in_phase1_website,in_phase2_website,oxide_conv,website_analyte,category_two,website_order,website_order_pos2
+192Os,192Os,NULL,NULL,NULL,ppt,os_192,metal_isotope,FALSE,TRUE,NULL,192Os (ppt),NULL,141,NULL
+1:1 clays,1:1 clays,"1:1 clays e.g .Kaolinite, Berthierine",NULL,NULL,wtpct,one_to_one_clays,mineralogy_composition,FALSE,TRUE,NULL,1:1 clays (wt%),NULL,230,NULL
+2:1 clays,2:1 clays,"2:1 clays e.g. Montmorillonite, Illite, Muscovite, Biotite",NULL,NULL,wtpct,two_to_one_clays,mineralogy_composition,FALSE,TRUE,NULL,2:1 clays (wt%),NULL,231,NULL
+AVS,Acid-volatile sulfides,Acid-volatile sulfides,NULL,NULL,wtpct,avs,iron_sulfur,FALSE,TRUE,NULL,AVS (wt%),NULL,18,NULL
+Ac,Actinium,Actinium,89,227.028,N/A,ac,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Actinolite,Actinolite,Actinolite,NULL,NULL,wtpct,actinolite,mineralogy_composition,FALSE,FALSE,NULL,Actinolite (wt%),NULL,NULL,NULL
+Ag,Silver,Silver,47,107.868,ppm,ag,element,TRUE,TRUE,NULL,Ag (ppm),NULL,152,NULL
+Al,Aluminium,Aluminium,13,26.982,wtpct,alu,element,TRUE,TRUE,NULL,Al (wt%),NULL,153,NULL
+Al-SeqA,Aluminum from SeqA,"Aluminum extracted using the SeqA method, first step in sequential iron extraction method of Poulton and Canfield, 2005",NULL,NULL,wtpct,al_seqa,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Al-SeqC,Aluminum from SeqC,"Aluminum extracted using the SeqC method, third step in sequential iron extraction method of Poulton and Canfield, 2005",NULL,NULL,wtpct,al_seqc,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Al-auth,Al from authigenic fraction,Authigenic aluminium after light leach on shale,NULL,NULL,wtpct,al _auth,authigenic_proxy,FALSE,FALSE,NULL,Al-auth (wt%),NULL,NULL,NULL
+Al-carb,Al from the carbonate fraction,"Aluminum extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,wtpct,al_carb,carbonate_proxy,FALSE,TRUE,NULL,Al-carb (wt%),NULL,46,NULL
+Al2O3,Aluminum oxide,Aluminum oxide,NULL,101.96,wtpct,alu,element,TRUE,TRUE,0.529251,Al (wt%),NULL,153,NULL
+Albite,Albite,Albite,NULL,NULL,wtpct,albite,mineralogy_composition,FALSE,TRUE,NULL,Albite (wt%),NULL,232,NULL
+Alunite,Alunite,Alunite,NULL,NULL,wtpct,alunite,mineralogy_composition,FALSE,FALSE,NULL,Alunite (wt%),NULL,NULL,NULL
+Am,Americium,Americium,95,243.061,N/A,am,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Amorphous,Amorphous,Amorphous phase content,NULL,NULL,wtpct,amorphous,mineralogy_composition,FALSE,FALSE,NULL,Amorphous (wt%),NULL,NULL,NULL
+Amphibole,Amphibole,Amphibole,NULL,NULL,wtpct,amphibole,mineralogy_composition,FALSE,FALSE,NULL,Amphibole (wt%),NULL,NULL,NULL
+Analcime,Analcime,Analcime,NULL,NULL,wtpct,analcime,mineralogy_composition,FALSE,TRUE,NULL,Analcime (wt%),NULL,233,NULL
+Anatase,Anatase,Anatase,NULL,NULL,wtpct,anatase,mineralogy_composition,FALSE,TRUE,NULL,Anatase (wt%),NULL,234,NULL
+Anatase_Rutile,Anatase_Rutile,Anatase_Rutile,NULL,NULL,wtpct,anatase_rutile,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Anhydrite,Anhydrite,Anhydrite,NULL,NULL,wtpct,anhydrite,mineralogy_composition,FALSE,TRUE,NULL,Anhydrite (wt%),NULL,235,NULL
+Ankerite,Ankerite,Ankerite,NULL,NULL,wtpct,ankerite,mineralogy_composition,FALSE,TRUE,NULL,Ankerite (wt%),NULL,236,NULL
+Annite,Annite,Annite,NULL,NULL,wtpct,annite,mineralogy_composition,FALSE,FALSE,NULL,Annite (wt%),NULL,NULL,NULL
+Anorthite,Anorthite,Anorthite,NULL,NULL,wtpct,anorthite,mineralogy_composition,FALSE,TRUE,NULL,Anorthite (wt%),NULL,237,NULL
+Apatite,Apatite,Apatite,NULL,NULL,wtpct,apatite,mineralogy_composition,FALSE,TRUE,NULL,Apatite (wt%),NULL,238,NULL
+Ar,Argon,Argon,18,39.948,N/A,ar,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Aragonite,Aragonite,Aragonite,NULL,NULL,wtpct,aragonite,mineralogy_composition,FALSE,TRUE,NULL,Aragonite (wt%),NULL,239,NULL
+Aro,Aromatic EOM,NULL,NULL,NULL,mg,aro,carbon,FALSE,FALSE,NULL,Aromatic hydrocarbon (mg),NULL,NULL,NULL
+As,Arsenic,Arsenic,33,74.922,ppm,ars,element,TRUE,TRUE,NULL,As (ppm),NULL,154,NULL
+As-carb,As from the carbonate fraction,"Arsenic extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ars_carb,carbonate_proxy,FALSE,TRUE,NULL,As-carb (ppm),NULL,47,NULL
+Ash,Ash,Ash,NULL,NULL,wtpct,ash,mineralogy_composition,FALSE,TRUE,NULL,Ash (wt%),NULL,240,NULL
+Asph,Asphaltenes,NULL,NULL,NULL,mg,asph,carbon,FALSE,FALSE,NULL,Asphaltenes (mg),NULL,NULL,NULL
+At,Astatine,Astatine,85,209.987,N/A,at,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Au,Gold,Gold,79,196.967,ppb,au,element,TRUE,TRUE,NULL,Au (ppb),NULL,155,NULL
+Axinite,Axinite,Axinite,NULL,NULL,wtpct,axinite,mineralogy_composition,FALSE,FALSE,NULL,Axinite (wt%),NULL,NULL,NULL
+B,Boron,Boron,5,10.811,ppm,b,element,FALSE,TRUE,NULL,B (ppm),NULL,156,NULL
+BR,Bitumen reflectance,Bitumen reflectance,NULL,NULL,pct,b_reflect,carbon,FALSE,FALSE,NULL,BR (%),NULL,NULL,NULL
+Ba,Barium,Barium,56,137.327,ppm,ba,element,TRUE,TRUE,NULL,Ba (ppm),NULL,157,NULL
+Ba-auth,Ba from authigenic fraction,Authigenic barium after light leach on shale,NULL,NULL,ppm,ba_auth,authigenic_proxy,FALSE,FALSE,NULL,Ba-auth (ppm),NULL,NULL,NULL
+Ba-carb,Ba from the carbonate fraction,"Barium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ba_carb,carbonate_proxy,FALSE,TRUE,NULL,Ba-carb (ppm),NULL,48,NULL
+BaO,Barium oxide,Barium oxide,NULL,NULL,ppm,ba,element,TRUE,TRUE,0.89566,Ba (ppm),NULL,157,NULL
+Barite,Barite,Barite,NULL,NULL,wtpct,barite,mineralogy_composition,FALSE,TRUE,NULL,Barite (wt%),NULL,241,NULL
+Bassanite,Bassanite,Bassanite,NULL,NULL,wtpct,bassanite,mineralogy_composition,FALSE,FALSE,NULL,Bassanite (wt%),NULL,NULL,NULL
+Be,Beryllium,Beryllium,4,9.012,ppm,be,element,TRUE,TRUE,NULL,Be (ppm),NULL,158,NULL
+Berthierine,Berthierine,Berthierine,NULL,NULL,wtpct,berthierine,mineralogy_composition,FALSE,TRUE,NULL,Berthierine (wt%),NULL,242,NULL
+Bh,Bohrium,Bohrium,107,262.123,N/A,bh,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Bi,Bismuth,Bismuth,83,208.98,ppm,bi,element,TRUE,TRUE,NULL,Bi (ppm),NULL,159,NULL
+Biotite,Biotite,Biotite,NULL,NULL,wtpct,biotite,mineralogy_composition,FALSE,TRUE,NULL,Biotite (wt%),NULL,243,NULL
+Bk,Berkelium,Berkelium,97,247.07,N/A,bk,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Bloedite,Bloedite,Bloedite,NULL,NULL,wtpct,bloedite,mineralogy_composition,FALSE,FALSE,NULL,Bloedite (wt%),NULL,NULL,NULL
+Br,Bromine,Bromine,35,79.904,ppm,br,element,FALSE,FALSE,NULL,Br (ppm),NULL,NULL,NULL
+Brookite,Brookite,Brookite,NULL,NULL,wtpct,brookite,mineralogy_composition,FALSE,FALSE,NULL,Brookite (wt%),NULL,NULL,NULL
+Butlerite,Butlerite,Butlerite,NULL,NULL,wtpct,butlerite,mineralogy_composition,FALSE,FALSE,NULL,Butlerite (wt%),NULL,NULL,NULL
+C,Carbon,Carbon (Total carbon),6,12.011,wtpct,tot_c,carbon,TRUE,TRUE,NULL,Total Carbon (wt%),NULL,22,NULL
+C-graph,Graphitic carbon,Graphitic carbon,NULL,NULL,wtpct,c_graph,carbon,FALSE,FALSE,NULL,C-graph (wt%),NULL,NULL,NULL
+C15+Aro,C15+Aro,EOM aromatic fraction (SARA analysis),NULL,NULL,pct,c15_aro,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C15+Asph,C15+Asph,EOM asphaltene fraction (SARA analysis),NULL,NULL,pct,c15_asph,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C15+NSO,C15+NSO,EOM polar hydrocabon fraction,NULL,NULL,pct,c15_nso,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C15+Sat,C15+Sat,EOM saturated fraction (SARA analysis),NULL,NULL,pct,c15_sat,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C2717b/C30ab,NULL,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C27aaa(R)/C27-29aaa(R),NULL,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C27aaaR/C29aaaR,NULL,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C28aaa(R)/C27-29aaa(R),NULL,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C298aaa(R)/C27-29aaa(R),NULL,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C:N,C:N,C:N atomic,NULL,NULL,none,cn_ratio,nitrogen_phosphorous,TRUE,TRUE,NULL,C:N (atomic),NULL,108,NULL
+C:N_KER,C:N_KER,C:N of kerogen,NULL,NULL,none,cn_ratio_ker,carbon,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+CAP_47,Δ47,Δ47 - clumped isotopes,NULL,NULL,permil,cap_47,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+CAP_DELTA_C13,Δ13C,NULL,NULL,NULL,permil,cap_delta_c13,carbonate_proxy,FALSE,TRUE,NULL,Δ13C (‰),NULL,35,NULL
+CAP_DELTA_Hg199,Δ199Hg,δ199Hg-δ202Hg x β where β is equal to 0.2520,NULL,NULL,permil,cap_delta_hg199,metal_isotope,FALSE,FALSE,NULL,Δ199Hg (‰),NULL,NULL,NULL
+CAP_DELTA_Hg200,Δ200Hg,δ200Hg-δ202Hg x β where β is equal to 0.5024,NULL,NULL,permil,cap_delta_hg200,metal_isotope,FALSE,FALSE,NULL,Δ200Hg (‰),NULL,NULL,NULL
+CAP_DELTA_Hg201,Δ201Hg,δ201Hg-δ202Hg x β where β is equal to 0.7520,NULL,NULL,permil,cap_delta_hg201,metal_isotope,FALSE,FALSE,NULL,Δ201Hg (‰),NULL,NULL,NULL
+CAP_DELTA_N15_KER,Δ15N-ker,NULL,NULL,NULL,permil,cap_delta_n15_ker,nitrogen_phosphorous,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+CAP_DELTA_S33,Δ33S,Δ33S = δ33S - 1000 *  [(1 + δ34S/1000) 0.515- 1],NULL,NULL,permil,cap_delta_s33,iron_sulfur,FALSE,FALSE,NULL,Δ33S (‰),NULL,NULL,NULL
+CAP_DELTA_S33_AVS,Δ33S-avs,NULL,NULL,NULL,permil,cap_delta_s33_avs,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+CAP_DELTA_S33_PY,Δ33S-py,NULL,NULL,NULL,permil,cap_delta_s33_py,iron_sulfur,FALSE,FALSE,NULL,Δ33S-py (‰),NULL,NULL,NULL
+CAP_DELTA_S34,Δ34S,NULL,NULL,NULL,permil,cap_delta_s34,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+CAP_DELTA_S36,Δ36S,NULL,NULL,NULL,permil,cap_delta_s36,iron_sulfur,FALSE,FALSE,NULL,Δ36S (‰),NULL,NULL,NULL
+CAP_DELTA_S36_AVS,Δ36S-avs,NULL,NULL,NULL,permil,cap_delta_s36_avs,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+CAP_DELTA_S36_PY,Δ36S-py,NULL,NULL,NULL,permil,cap_delta_s36_py,iron_sulfur,FALSE,FALSE,NULL,Δ36S-py (‰),NULL,NULL,NULL
+CAS,Carbonate-associated sulfur,Carbonate-associated sulfur,NULL,NULL,ppm,cas,iron_sulfur,TRUE,TRUE,NULL,CAS (ppm),NULL,21,NULL
+CO2,CO2,Concentration of carbon reported as percent CO2,NULL,NULL,wtpct,co2,carbon,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+CTO2,Total C as CO2,"Total carbon, as carbon dioxide",NULL,NULL,wtpct,cto2,carbon,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+C_KER,Kerogen carbon,Kerogen carbon,NULL,NULL,wtpct,c_ker,carbon,FALSE,FALSE,NULL,C-ker (wt%),NULL,NULL,NULL
+Ca,Calcium,Calcium,20,40.078,wtpct,ca,element,TRUE,TRUE,NULL,Ca (wt%),NULL,160,NULL
+Ca-SeqA,Calcium from SeqA,"Calcium extracted using the SeqA method, first step in sequential iron extraction method of Poulton and Canfield, 2005 ",NULL,NULL,wtpct,ca_seqa,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Ca-SeqC,Calcium from SeqC,"Calcium extracted using the SeqC method, third step in sequential iron extraction method of Poulton and Canfield, 2005",NULL,NULL,wtpct,ca_seqc,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Ca-auth,Ca from authigenic fraction,Authigenic calcium after light leach on shale,NULL,NULL,wtpct,ca _auth,authigenic_proxy,FALSE,FALSE,NULL,Ca-auth (wt%),NULL,NULL,NULL
+Ca-carb,Ca from the carbonate fraction,"Calcium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,wtpct,ca_carb,carbonate_proxy,FALSE,TRUE,NULL,Ca-carb (wt%),NULL,49,NULL
+CaCO3,Calcium carbonate,Calcium carbonate,NULL,NULL,wtpct,carb,carbonate_proxy,FALSE,TRUE,NULL,Carbonate (wt%),NULL,37,NULL
+CaO,Calcium oxide,Calcium oxide,NULL,56.077,wtpct,ca,element,TRUE,TRUE,0.714701,Ca (wt%),NULL,160,NULL
+Calcite,Calcite,Calcite,NULL,NULL,wtpct,calcite,mineralogy_composition,FALSE,TRUE,NULL,Calcite (wt%),NULL,244,NULL
+Calcium_Magnesium_Iron_Carbonate,NULL,NULL,NULL,NULL,wtpct,calcium_magnesium_iron_carbonate,mineralogy_composition,FALSE,FALSE,NULL,Calcium_Magnesium_Iron_Carbonate (wt%),NULL,NULL,NULL
+Carbonate,Carbonate,Carbonate by mass loss - calcium carbonate and other forms,NULL,NULL,wtpct,carb,carbonate_proxy,FALSE,TRUE,NULL,Carbonate (wt%),NULL,36,NULL
+Cd,Cadmium,Cadmium,48,112.411,ppm,cd,element,TRUE,TRUE,NULL,Cd (ppm),NULL,161,NULL
+Cd-carb,Cd from the carbonate fraction,"Cadmium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,cd_carb,carbonate_proxy,FALSE,TRUE,NULL,Cd-carb (ppm),NULL,50,NULL
+Ce,Cerium,Cerium,58,140.115,ppm,ce,element,TRUE,TRUE,NULL,Ce (ppm),NULL,162,NULL
+Ce-auth,Ce from authigenic fraction,Authigenic cerium after light leach on shale,NULL,NULL,ppm,ce_auth,authigenic_proxy,FALSE,FALSE,NULL,Ce-auth (ppm),NULL,NULL,NULL
+Ce-carb,Ce from the carbonate fraction,"Cerium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ce_carb,carbonate_proxy,FALSE,TRUE,NULL,Ce-carb (ppm),NULL,51,NULL
+Ce/Ce*,Ce/Ce*,Cerium anomaly. Variable versions. Lawrence and Kamber (2006):(Ce/Ce*)N = CeN/(PrN*PrN/NdN),NULL,NULL,none,ce_ce,carbonate_proxy,FALSE,TRUE,NULL,Ce/Ce*,NULL,38,NULL
+Celadonite,Celadonite,Celadonite,NULL,NULL,wtpct,celadonite,mineralogy_composition,FALSE,FALSE,NULL,Celadonite (wt%),NULL,NULL,NULL
+Cf,Californium,Californium,98,251.08,N/A,cf,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Chamosite,Chamosite,Chamosite,NULL,NULL,wtpct,chamosite,mineralogy_composition,FALSE,TRUE,NULL,Chamosite (wt%),NULL,245,NULL
+Chlorite,Chlorite,Chlorite,NULL,NULL,wtpct,chlorite,mineralogy_composition,FALSE,TRUE,NULL,Chlorite (wt%),NULL,246,NULL
+Cl,Chlorine,Chlorine,17,35.453,wtpct,cl,element,FALSE,FALSE,NULL,Cl (wt%),NULL,NULL,NULL
+Clinochlore,Clinochlore,Clinochlore,NULL,NULL,wtpct,clinochlore,mineralogy_composition,FALSE,TRUE,NULL,Clinochlore (wt%),NULL,247,NULL
+Clinoptilite,Clinoptilite,Clinoptilite,NULL,NULL,wtpct,clinoptilite,mineralogy_composition,FALSE,FALSE,NULL,Clinoptilite (wt%),NULL,NULL,NULL
+Cm,Curium,Curium,96,247.07,N/A,cm,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Co,Cobalt,Cobalt,27,58.933,ppm,co,element,TRUE,TRUE,NULL,Co (ppm),NULL,163,NULL
+Co-auth,Co from authigenic fraction,Authigenic cobalt after light leach on shale,NULL,NULL,ppm,co_auth,authigenic_proxy,FALSE,FALSE,NULL,Co-auth (ppm),NULL,NULL,NULL
+Co-carb,Co from the carbonate fraction,"Cobalt extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,co_carb,carbonate_proxy,FALSE,TRUE,NULL,Co-carb (ppm),NULL,52,NULL
+Co3O4,Cobalt oxide,Cobalt oxide,NULL,240.8,ppm,co,element,FALSE,TRUE,0.73423,Co (ppm),NULL,163,NULL
+Cr,Chromium,Chromium,24,51.996,ppm,cr,element,TRUE,TRUE,NULL,Cr (ppm),NULL,164,NULL
+Cr-auth,Cr from authigenic fraction,Authigenic chromium after light leach on shale,NULL,NULL,ppm,cr_auth,authigenic_proxy,FALSE,FALSE,NULL,Cr-auth (ppm),NULL,NULL,NULL
+Cr-carb,Cr from the carbonate fraction,"Chromium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,cr_carb,carbonate_proxy,FALSE,TRUE,NULL,Cr-carb (ppm),NULL,53,NULL
+Cr2O3,Chromium(III) oxide,Chromium(III) oxide,NULL,151.99,ppm,cr,element,TRUE,TRUE,0.684202,Cr (ppm),NULL,164,NULL
+Cristobalite,Cristobalite,Cristobalite,NULL,NULL,wtpct,cristobalite,mineralogy_composition,FALSE,TRUE,NULL,Cristobalite (wt%),NULL,248,NULL
+Cs,Caesium,Caesium,55,132.905,ppm,cs,element,TRUE,TRUE,NULL,Cs (ppm),NULL,165,NULL
+Cs-auth,Cs from authigenic fraction,Authigenic caesium after light leach on shale,NULL,NULL,ppm,cs_auth,authigenic_proxy,FALSE,FALSE,NULL,Cs-auth (ppm),NULL,NULL,NULL
+Cs-carb,Cs from the carbonate fraction,"Caesium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,cs_carb,carbonate_proxy,FALSE,TRUE,NULL,Cs-carb (ppm),NULL,54,NULL
+Cu,Copper,Copper,29,63.546,ppm,cu,element,TRUE,TRUE,NULL,Cu (ppm),NULL,166,NULL
+Cu-auth,Cu from authigenic fraction,Authigenic copper after light leach on shale,NULL,NULL,ppm,cu_auth,authigenic_proxy,FALSE,FALSE,NULL,Cu-auth (ppm),NULL,NULL,NULL
+Cu-carb,Cu from the carbonate fraction,"Copper extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,cu_carb,carbonate_proxy,FALSE,TRUE,NULL,Cu-carb (ppm),NULL,55,NULL
+CuO,Copper oxide,Copper oxide,NULL,79.545,ppm,cu,element,FALSE,TRUE,0.798865,Cu (ppm),NULL,166,NULL
+DELTA_B11,δ11B,"equals: (ratio of boron isotopes b11/b10 in the sample divided by ratio of b11/b10 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_b11,metal_isotope,FALSE,FALSE,NULL,δ11B (‰),NULL,NULL,NULL
+DELTA_Ba137_Ba134,δ137/134Ba,"equals: (ratio of barium isotopes ba137/ba134 in the sample divided by ratio of ba137/ba134 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_ba137_ba134,metal_isotope,FALSE,FALSE,NULL,δ137/134Ba (‰),NULL,NULL,NULL
+DELTA_Ba137_Ba135,δ137/135Ba,"equals: (ratio of barium isotopes ba137/ba135 in the sample divided by ratio of ba137/ba135 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_ba137_ba135,metal_isotope,FALSE,FALSE,NULL,δ137/135Ba (‰),NULL,NULL,NULL
+DELTA_C13,δ13C-bulk,"equals: (ratio of carbon isotopes c13/c12 in the bulk sample divided by ratio of c13/c12 of the pee dee belemnite) minus 1, multiplied by 1000",NULL,NULL,permil,delta_c13,carbon,FALSE,FALSE,NULL,δ13C-bulk (‰),NULL,NULL,NULL
+DELTA_C13_ARO,δ13C-aro,EOM aromatic δ13C,NULL,NULL,permil,delta_c13_aro,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+DELTA_C13_CARB,δ13C-carb,"equals: (ratio of carbon isotopes c13/c12 in the carbonate sample divided by ratio of c13/c12 of the pee dee belemnite) minus 1, multiplied by 1000",NULL,NULL,permil,delta_c13_carb,carbonate_proxy,TRUE,TRUE,NULL,δ13C-carb (‰),NULL,33,NULL
+DELTA_C13_KER,δ13C-kerogen,"equals: (ratio of carbon isotopes c13/c12 in the kerogen sample divided by ratio of c13/c12 of the pee dee belemnite) minus 1, multiplied by 1000",NULL,NULL,permil,delta_c13_ker,carbon,FALSE,FALSE,NULL,δ13C-ker (‰),NULL,NULL,NULL
+DELTA_C13_ORG,δ13C-org,"equals: (ratio of carbon isotopes c13/c12 in the organic carbon sample divided by ratio of c13/c12 of the pee dee belemnite) minus 1, multiplied by 1000",NULL,NULL,permil,delta_c13_org,carbon,TRUE,TRUE,NULL,δ13C-org (‰),NULL,25,NULL
+DELTA_C13_SAT,δ13C-sat,EOM saturated δ13C,NULL,NULL,permil,delta_c13_sat,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+DELTA_Ca44_Ca40_CARB,δ44/40Ca-carb,"equals: (ratio of calcium isotopes ca44/ca40 in the sample divided by ratio of ca44/ca40 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_ca44_ca40_carb,metal_isotope,FALSE,TRUE,NULL,δ44/40Ca-carb (‰),NULL,117,NULL
+DELTA_Ca44_Ca42_CARB,δ44/42Ca-carb,"equals: (ratio of calcium isotopes ca44/ca42 in the sample divided by ratio of ca44/ca42 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_ca44_ca42_carb,metal_isotope,FALSE,FALSE,NULL,δ44/42Ca-carb (‰),NULL,NULL,NULL
+DELTA_Ca44_Ca43_CARB,δ44/43Ca-carb,"equals: (ratio of calcium isotopes ca44/ca43 in the sample divided by ratio of ca44/ca43 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_ca44_ca43_carb,metal_isotope,FALSE,FALSE,NULL,δ44/43Ca-carb (‰),NULL,NULL,NULL
+DELTA_Cd114_CARB,δ114Cd-carb,"equals: (ratio of cadmium isotopes cd114/cd110 in the sample divided by ratio of cd114/cd11 of standard) minus 1, multiplied by 1000 in carbonate fraction",NULL,NULL,permil,delta_cd114_carb,metal_isotope,FALSE,TRUE,NULL,δ114Cd-carb (‰),NULL,118,NULL
+DELTA_Cr53,δ53Cr,"equals: (ratio of chromium isotopes cr53/cr52 in the sample divided by ratio of cr53/cr52 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_cr53,metal_isotope,FALSE,TRUE,NULL,δ53Cr (‰),NULL,119,NULL
+DELTA_Cr53_AUTH,δ53Cr-auth,"equals: (ratio of chromium isotopes cr53/cr52 in the sample divided by ratio of cr53/cr52 of standard) minus 1, multiplied by 1000 in authigenic fraction",NULL,NULL,permil,delta_cr53_auth,metal_isotope,FALSE,TRUE,NULL,δ53Cr-auth (‰),NULL,120,NULL
+DELTA_Cr53_CARB,δ53Cr-carb,"equals: (ratio of chromium isotopes cr53/cr52 in the sample divided by ratio of cr53/cr52 of standard) minus 1, multiplied by 1000 in carbonate fraction",NULL,NULL,NULL,delta_cr53_carb,metal_isotope,FALSE,TRUE,NULL,δ53Cr-carb (‰),NULL,121,NULL
+DELTA_Cu65,δ65Cu,"equals: (ratio of copper isotopes cu65/cu63 in the sample divided by ratio of cu65/cu63 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_cu65,metal_isotope,FALSE,TRUE,NULL,δ65Cu (‰),NULL,122,NULL
+DELTA_Fe56,δ56Fe,"equals: (ratio of iron isotopes fe56/fe54 in the sample divided by ratio of fe56/fe54 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_fe56,metal_isotope,TRUE,TRUE,NULL,δ56Fe (‰),NULL,123,NULL
+DELTA_Fe56_AUTH,δ56Fe-auth,"equals: (ratio of iron isotopes fe56/fe54 in the sample divided by ratio of fe56/fe54 of standard) minus 1, multiplied by 1000 in authigenic fraction",NULL,NULL,permil,delta_fe56_auth,metal_isotope,FALSE,TRUE,NULL,δ56Fe-auth (‰),NULL,124,NULL
+DELTA_Fe56_PY,δ56Fe-py,"equals: (ratio of iron isotopes fe56/fe54 in the sample divided by ratio of fe56/fe54 of standard) minus 1, multiplied by 1000 in pyrite fraction",NULL,NULL,permil,delta_fe56_py,metal_isotope,TRUE,TRUE,NULL,δ56Fe-py (‰),NULL,125,NULL
+DELTA_Fe57,δ57Fe,"equals: (ratio of iron isotopes fe57/fe54 in the sample divided by ratio of fe57/fe54 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_fe57,metal_isotope,FALSE,FALSE,NULL,δ57Fe (‰),NULL,NULL,NULL
+DELTA_Fe57_Fe56,δ57/56Fe,"equals: (ratio of iron isotopes fe57/fe56 in the sample divided by ratio of fe57/fe56 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_fe57_fe56,metal_isotope,FALSE,FALSE,NULL,δ57/56Fe (‰),NULL,NULL,NULL
+DELTA_Fe58,δ58Fe,"equals: (ratio of iron isotopes fe58/fe54 in the sample divided by ratio of fe58/fe54 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_fe58,metal_isotope,FALSE,FALSE,NULL,δ58Fe (‰),NULL,NULL,NULL
+DELTA_Hg199,δ919Hg,"equals: (ratio of mercury isotopes hg199/hg198 in the sample divided by ratio of hg199/hg198 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_hg199,metal_isotope,FALSE,FALSE,NULL,δ199Hg (‰),NULL,NULL,NULL
+DELTA_Hg200,δ200Hg,"equals: (ratio of mercury isotopes hg200/hg198 in the sample divided by ratio of hg200/hg198 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_hg200,metal_isotope,FALSE,FALSE,NULL,δ200Hg (‰),NULL,NULL,NULL
+DELTA_Hg201,δ201Hg,"equals: (ratio of mercury isotopes hg201/hg198 in the sample divided by ratio of hg201/hg198 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_hg201,metal_isotope,FALSE,FALSE,NULL,δ201Hg (‰),NULL,NULL,NULL
+DELTA_Hg202,δ202Hg,"equals: (ratio of mercury isotopes hg202/hg198 in the sample divided by ratio of hg202/hg198 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_hg202,metal_isotope,FALSE,FALSE,NULL,δ202Hg (‰),NULL,NULL,NULL
+DELTA_Li7,δ7Li,"equals: (ratio of lithium isotopes li7/li6 in the sample divided by ratio of li7/li6 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_li7,metal_isotope,FALSE,TRUE,NULL,δ7Li (‰),NULL,126,NULL
+DELTA_Li7_CARB,δ7Li-carb,"equals: (ratio of lithium isotopes li7/li6 in the sample divided by ratio of li7/li6 of standard) minus 1, multiplied by 1000 in carbonate fraction",NULL,NULL,permil,delta_li7_carb,metal_isotope,FALSE,TRUE,NULL,δ7Li-carb (‰),NULL,127,NULL
+DELTA_Mg25_CARB,δ25Mg-carb,"equals: (ratio of magnesium isotopes mg25/mg24 in the sample divided by ratio of mg25/mg24 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_mg25_carb,metal_isotope,FALSE,FALSE,NULL,δ25Mg-carb (‰),NULL,NULL,NULL
+DELTA_Mg26_CARB,δ26Mg-carb,"equals: (ratio of magnesium isotopes mg26/mg24 in the sample divided by ratio of mg26/mg24 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_mg26_carb,metal_isotope,FALSE,TRUE,NULL,δ26Mg-carb (‰),NULL,128,NULL
+DELTA_Mo97_Mo95,δ97/95Mo,"equals: (ratio of molybdenum isotopes mo97/mo95 in the sample divided by ratio of mo97/mo95 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_mo97_mo95,metal_isotope,FALSE,FALSE,NULL,δ97/95Mo (‰),NULL,NULL,NULL
+DELTA_Mo98,δ98/95Mo,"equals: (ratio of molybdenum isotopes mo98/mo95 in the sample divided by ratio of mo98/mo95 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_mo98,metal_isotope,TRUE,TRUE,NULL,δ98Mo (‰),NULL,129,NULL
+DELTA_Mo98_AUTH,δ98/95Mo-auth,"equals: (ratio of molybdenum isotopes mo98/mo95 in the sample divided by ratio of mo98/mo95 of standard) minus 1, multiplied by 1000 in authigenic Mo fraction",NULL,NULL,permil,delta_mo98_auth,metal_isotope,FALSE,TRUE,NULL,δ98Mo-auth (‰),NULL,130,NULL
+DELTA_Mo98_CARB,δ98/95Mo-carb,"equals: (ratio of molybdenum isotopes mo98/mo95 in the sample divided by ratio of mo98/mo95 of standard) minus 1, multiplied by 1000 in carbonate fraction",NULL,NULL,permil,delta_mo98_carb,metal_isotope,FALSE,TRUE,NULL,δ98Mo-carb (‰),NULL,131,NULL
+DELTA_N15,δ15N,"equals: (ratio of nitrogen isotopes n15/n14 in the sample divided by ratio of n15/n14 in the reference material) minus 1, multiplied by 1000",NULL,NULL,permil,delta_n15,nitrogen_phosphorous,TRUE,TRUE,NULL,δ15N (‰),NULL,106,NULL
+DELTA_N15_KER,δ15N-ker,"equals: (ratio of nitrogen isotopes n15/n14 in the kerogen fraction divided by ratio of n15/n14 in the reference material) minus 1, multiplied by 1000",NULL,NULL,permil,delta_n15_ker,nitrogen_phosphorous,FALSE,TRUE,NULL,δ15N-ker (‰),NULL,107,NULL
+DELTA_N15_SIL,δ15N-sil,"equals: (ratio of nitrogen isotopes n15/n14 in the silicate fraction divided by ratio of n15/n14 in the reference material) minus 1, multiplied by 1000",NULL,NULL,permil,delta_n15_sil,nitrogen_phosphorous,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+DELTA_O18_CARB,δ18O-carb,"equals: (ratio of oxygen isotopes o18/o16 in the carbonate sample divided by ratio of o18/o16 of the standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_o18_carb,carbonate_proxy,FALSE,TRUE,NULL,δ18O-carb (‰),NULL,34,NULL
+DELTA_O18_FLUID,δ18Ofluid,Fluid d18O values calculated using the clumped isotope temperature ,NULL,NULL,NULL,NULL,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+DELTA_S33_PY,δ33S-py,"equals: (ratio of sulfur isotopes s33/s32 in the sample divided by ratio of s33/s32 in the reference material) minus 1, multiplied by 1000",NULL,NULL,permil,delta_s33_py,iron_sulfur,FALSE,FALSE,NULL,δ33S-py (‰),NULL,NULL,NULL
+DELTA_S34,δ34S,"equals: (ratio of sulphur isotopes s34/s32 in the sample divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000",NULL,NULL,permil,delta_s34,iron_sulfur,TRUE,TRUE,NULL,δ34S-bulk (‰),NULL,15,NULL
+DELTA_S34_AVS,δ34S-avs,"equals: (ratio of sulphur isotopes s34/s32 in the sample divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000 in acid-volatile sulfur fraction.",NULL,NULL,permil,delta_s34_avs,iron_sulfur,FALSE,FALSE,NULL,δ34S-avs (‰),NULL,NULL,NULL
+DELTA_S34_CAS,δ34S-CAS,"equals: (ratio of sulphur isotopes s34/s32 in the sample divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000 in carbonate-associated sulfur fraction.",NULL,NULL,permil,delta_s34_cas,iron_sulfur,TRUE,TRUE,NULL,δ34S-cas (‰),NULL,12,NULL
+DELTA_S34_GYP,δ34S-gypsum,"equals: (ratio of sulphur isotopes s34/s32 in the sample divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000 in gypsum fraction.",NULL,NULL,permil,delta_s34_gyp,iron_sulfur,TRUE,TRUE,NULL,δ34S-gyp (‰),NULL,13,NULL
+DELTA_S34_METAL_ORG,δ34S-metal-organic,"equals: (ratio of sulphur isotopes s34/s32 in a de-calcified sample divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000. Sometimes reported as δ34S-py, but will include other metal sulfides and organic sulfur",NULL,NULL,permil,delta_s34_metal_org,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+DELTA_S34_OBS,δ34S-OBS,"equals: (ratio of sulphur isotopes s34/s32 in the organically-bound sulfur divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000 in organic-bound sulfur.",NULL,NULL,permil,delta_s34_obs,iron_sulfur,TRUE,TRUE,NULL,δ34S-obs (‰),NULL,14,NULL
+DELTA_S34_PY,δ34S-py,"equals: (ratio of sulphur isotopes s34/s32 in the sample divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000 in pyrite fraction.",NULL,NULL,permil,delta_s34_py,iron_sulfur,TRUE,TRUE,NULL,δ34S-py (‰),NULL,11,NULL
+DELTA_S36_PY,δ36S-py,"equals: (ratio of sulphur isotopes s34/s32 in sample divided by ratio of s34/s32 in reference material ) minus 1, multiplied by 1000 in pyrite fraction.",NULL,NULL,permil,delta_s36_py,iron_sulfur,FALSE,FALSE,NULL,δ36S-py (‰),NULL,NULL,NULL
+DELTA_Se74_Se78,δ74/78Se,"equals: (ratio of selenium isotopes se74/se78 in the sample divided by ratio of se74/se78 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_se74_se78,metal_isotope,FALSE,FALSE,NULL,δ74/78Se (‰),NULL,NULL,NULL
+DELTA_Se76_Se78,δ76/78Se,"equals: (ratio of selenium isotopes se76/se78 in the sample divided by ratio of se76/se78 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_se76_se78,metal_isotope,FALSE,FALSE,NULL,δ76/78Se (‰),NULL,NULL,NULL
+DELTA_Se77_Se78,δ77/78Se,"equals: (ratio of selenium isotopes se77/se78 in the sample divided by ratio of se77/se78 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_se77_se78,metal_isotope,FALSE,FALSE,NULL,δ77/78Se (‰),NULL,NULL,NULL
+DELTA_Se82_Se76,δ82/76Se,"equals: (ratio of selenium isotopes se82/se76 in the sample divided by ratio of se82/se76 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_se82_se76,metal_isotope,FALSE,FALSE,NULL,δ82/76Se (‰),NULL,NULL,NULL
+DELTA_Se82_Se77,δ82/77Se,"equals: (ratio of selenium isotopes se82/se77 in the sample divided by ratio of se82/se77  of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_se82_se77,metal_isotope,FALSE,FALSE,NULL,δ82/77Se (‰),NULL,NULL,NULL
+DELTA_Se82_Se78,δ82/78Se,"equals: (ratio of selenium isotopes se82/se78 in the sample divided by ratio of se82/se78 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_se82_se78,metal_isotope,TRUE,TRUE,NULL,δ82/78Se (‰),NULL,132,NULL
+DELTA_U234,δ234U,"equals: (ratio of uranium isotopes u234/u238 in the sample divided by ratio of u234/u238 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_u234,metal_isotope,FALSE,FALSE,NULL,δ234U (‰),NULL,NULL,NULL
+DELTA_U234_CARB,δ234U-carb,"equals: (ratio of uranium isotopes u234/u238 in the sample divided by ratio of u234/u238 of standard) minus 1, multiplied by 1000  in carbonate fraction",NULL,NULL,permil,delta_u234_carb,metal_isotope,FALSE,FALSE,NULL,δ234U-carb (‰),NULL,NULL,NULL
+DELTA_U238,δ238U,"equals: (ratio of uranium isotopes u238/u235 in the sample divided by ratio of u238/u235 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_u238,metal_isotope,TRUE,TRUE,NULL,δ238U (‰),NULL,133,NULL
+DELTA_U238_AUTH,δ238U-auth,"equals: (ratio of uranium isotopes u238/u235 in the sample divided by ratio of u238/u235 of standard) minus 1, multiplied by 1000 in authigenic fraction",NULL,NULL,permil,delta_u238_auth,metal_isotope,FALSE,TRUE,NULL,δ238U-auth (‰),NULL,134,NULL
+DELTA_U238_CARB,δ238U-carb,"equals: (ratio of uranium isotopes u238/u235 in the sample divided by ratio of u238/u235 of standard) minus 1, multiplied by 1000 in carbonate fraction",NULL,NULL,permil,delta_u238_carb,metal_isotope,FALSE,TRUE,NULL,δ238U-carb (‰),NULL,135,NULL
+DELTA_V51,δ51V,"equals: (ratio of vanadium isotopes v51/v50 in the sample divided by ratio of v51/v50 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_v51,metal_isotope,FALSE,TRUE,NULL,δ51V (‰),NULL,136,NULL
+DELTA_V51_AUTH,δ51V-auth,"equals: (ratio of vanadium isotopes v51/v50 in the sample divided by ratio of v51/v50 of standard) minus 1, multiplied by 1000 in authigenic fraction",NULL,NULL,permil,delta_v51_auth,metal_isotope,FALSE,TRUE,NULL,δ51V-auth (‰),NULL,137,NULL
+DELTA_Zn66,δ66Zn,"equals: (ratio of zinc isotopes zn66/zn64 in the sample divided by ratio of zn66/zn64 of standard) minus 1, multiplied by 1000",NULL,NULL,permil,delta_zn66,metal_isotope,FALSE,TRUE,NULL,δ66Zn (‰),NULL,138,NULL
+Dawsonite,Dawsonite,Dawsonite,NULL,NULL,wtpct,dawsonite,mineralogy_composition,FALSE,FALSE,NULL,Dawsonite (wt%),NULL,NULL,NULL
+Db,Dubnium,Dubnium,105,262.114,N/A,db,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Detritals,Detritals,Detritals,NULL,NULL,wtpct,detritals,mineralogy_composition,FALSE,TRUE,NULL,Detritals (wt%),NULL,249,NULL
+Diaspore,Diaspore,Diaspore,NULL,NULL,wtpct,diaspore,mineralogy_composition,FALSE,FALSE,NULL,Diaspore (wt%),NULL,NULL,NULL
+Diopside,Diopside,Diopside,NULL,NULL,wtpct,diopside,mineralogy_composition,FALSE,FALSE,NULL,Diopside (wt%),NULL,NULL,NULL
+Dolomite,Dolomite,Dolomite,NULL,NULL,wtpct,dolomite,mineralogy_composition,FALSE,TRUE,NULL,Dolomite (wt%),NULL,250,NULL
+Dolomite_Iron_Dolomite,Dolomite_Iron_Dolomite,NULL,NULL,NULL,wtpct,dolomite_iron_dolomite,mineralogy_composition,FALSE,TRUE,NULL,Dolomite_Iron_Dolomite (wt%),NULL,251,NULL
+Dolomite_Siderite,Dolomite_Siderite,NULL,NULL,NULL,wtpct,dolomite_siderite,mineralogy_composition,FALSE,TRUE,NULL,Dolomite_Siderite (wt%),NULL,252,NULL
+Ds,Darmstadtium,Darmstadtium,110,269,N/A,ds,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Dy,Dysprosium,Dysprosium,66,162.5,ppm,dy,element,TRUE,TRUE,NULL,Dy (ppm),NULL,167,NULL
+Dy-auth,Dy from authigenic fraction,Authigenic dysprosium after light leach on shale,NULL,NULL,ppm,dy_auth,authigenic_proxy,FALSE,FALSE,NULL,Dy-auth (ppm),NULL,NULL,NULL
+Dy-carb,Dy from the carbonate fraction,"Dysprosium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,dy_carb,carbonate_proxy,FALSE,TRUE,NULL,Dy-carb (ppm),NULL,56,NULL
+EOM,EOM,"extractable organic matter (aka Chloroform bitumen ""A""?)",NULL,NULL,mg/g,eom,carbon,FALSE,FALSE,NULL,EOM (mg/g),NULL,NULL,NULL
+Enstatite,Enstatite,Enstatite,NULL,NULL,wtpct,enstatite,mineralogy_composition,FALSE,FALSE,NULL,Enstatite (wt%),NULL,NULL,NULL
+Epidote,Epidote,Epidote,NULL,NULL,wtpct,epidote,mineralogy_composition,FALSE,FALSE,NULL,Epidote (wt%),NULL,NULL,NULL
+Er,Erbium,Erbium,68,167.26,ppm,er,element,TRUE,TRUE,NULL,Er (ppm),NULL,168,NULL
+Er-auth,Er from authigenic fraction,Authigenic erbium after light leach on shale,NULL,NULL,ppm,er_auth,authigenic_proxy,FALSE,FALSE,NULL,Er-auth (ppm),NULL,NULL,NULL
+Er-carb,Er from the carbonate fraction,"Erbium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,er_carb,carbonate_proxy,FALSE,TRUE,NULL,Er-carb (ppm),NULL,57,NULL
+Es,Einsteinium,Einsteinium,99,252.083,N/A,es,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Eu,Europium,Europium,63,151.965,ppm,eu,element,TRUE,TRUE,NULL,Eu (ppm),NULL,169,NULL
+Eu-auth,Eu from authigenic fraction,Authigenic europium after light leach on shale,NULL,NULL,ppm,eu_auth,authigenic_proxy,FALSE,FALSE,NULL,Eu-auth (ppm),NULL,NULL,NULL
+Eu-carb,Eu from the carbonate fraction,"Europium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,eu_carb,carbonate_proxy,FALSE,TRUE,NULL,Eu-carb (ppm),NULL,58,NULL
+F,Fluorine,Fluorine,9,18.998,wtpct,f,element,FALSE,FALSE,NULL,F (wt%),NULL,NULL,NULL
+F_KER,F kerogen,Nitrogen speciation fraction kerogen,NULL,NULL,none,f_ker,nitrogen_phosphorous,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+F_SIL,F silicate,Nitrogen speciation fraction silicate (see also F_KER),NULL,NULL,none,f_sil,nitrogen_phosphorous,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fayalite,Fayalite,Fayalite,NULL,NULL,wtpct,fayalite,mineralogy_composition,FALSE,FALSE,NULL,Fayalite (wt%),NULL,NULL,NULL
+Fe,Total iron,Total iron,26,55.847,wtpct,fe,iron_sulfur,TRUE,TRUE,NULL,Fe (wt%),element,5,170
+Fe-AVS,AVS-associated iron,Iron associated with acid-volatile sulfide,26,55.847,wtpct,fe_avs,iron_sulfur,FALSE,TRUE,NULL,Fe-AVS (wt%),NULL,9,NULL
+Fe-Chlorite,Fe-Chlorite,Fe-Chlorite,NULL,NULL,wtpct,fe-chlorite,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fe-HCl,Iron extracted by method HCl_1min_boil,"Iron extracted after boiling for 1min in 12M HCl, method of Berner, 1970",26,55.847,wtpct,fe_hcl,iron_sulfur,FALSE,TRUE,NULL,Fe-HCl (wt%),NULL,10,NULL
+Fe-SIL,Fe from silicate-phase minerals by XRD/SEM,"Fe from silicate-bearing minerals. For example, from Paiste et al. 2018: We defined the silicate iron (FeSIL) pool as the sum of Fe in phyllosilicates (K-mica, Fe/Mg-mica and chlorite), the only Fe-carrying silicate phases identified in our samples.",NULL,NULL,wtpct,fe_sil,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fe-auth,Fe from authigenic fraction,Authigenic iron after light leach on shale,NULL,NULL,wtpct,fe _auth,authigenic_proxy,FALSE,FALSE,NULL,Fe-auth (wt%),NULL,NULL,NULL
+Fe-carb,Fe from the carbonate fraction,"Iron extracted from the carbonate fraction, after acidification in a weak acid (NOT iron from sequential extraction)",NULL,NULL,wtpct,fe_carb,carbonate_proxy,FALSE,TRUE,NULL,Fe-carb (wt%),NULL,59,NULL
+Fe-carb(seq),Carbonate-associated iron,"Carbonate-associated iron (e.g. iron in siderite, iron in ankerite), extracted as the first step in a sequential extraction (method SeqA)",26,55.847,wtpct,fe_carb_seq,iron_sulfur,TRUE,TRUE,NULL,Fe-carb(seq) (wt%) ,NULL,1,NULL
+Fe-carb-XRD,Fe from carbonate minerals by XRD/SEM,"Fe from iron-rich dolomite to ankerite solid-solution phase and siderite, determined by XRD/SEM.",NULL,NULL,wtpct,fe_carb_xrd,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fe-dith,Iron extracted by sodium dithionite solution,"Iron extracted by sodium dithionite solution, not in sequential extraction",26,55.847,wtpct,fe_dith,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fe-mag(seq),Magnetite iron,"Iron from magnetite, extracted as the third step in a sequential extraction (method SeqC)",26,55.847,wtpct,fe_mag_seq,iron_sulfur,TRUE,TRUE,NULL,Fe-mag(seq) (wt%),NULL,3,NULL
+Fe-ox(seq),Iron-oxide iron,"Iron from iron oxides (e.g. ferrihydrite,  lepidocrocite, goethite, akaganeite, hematite), extracted as the second step in a sequential extraction (method SeqB)",26,55.847,wtpct,fe_ox_seq,iron_sulfur,TRUE,TRUE,NULL,Fe-ox(seq) (wt%),NULL,2,NULL
+Fe-py,Pyrite iron,Pyrite iron,26,55.847,wtpct,fe_py,iron_sulfur,TRUE,TRUE,NULL,Fe-py (wt%),NULL,4,NULL
+Fe-py-XRD,Fe from pyrite by XRD/SEM,"Fe from iron-rich dolomite to ankerite solid-solution phase and siderite, determined by XRD/SEM.",NULL,NULL,wtpct,fe_py_xrd,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fe-rich chlorite+serpentine,Fe-rich chlorite+serpentine,XRD Fe-rich chlorite+serpentine,NULL,NULL,wtpct,fe_rich_chlor_serp,mineralogy_composition,FALSE,FALSE,NULL,Fe-rich chlorite+serpentine (wt%),NULL,NULL,NULL
+Fe/Mg-mica,Fe/Mg-mica,"Fe/Mg-mica	",NULL,NULL,wtpct,fe_mg_mica,mineralogy_composition,FALSE,TRUE,NULL,Fe/Mg-mica (wt%),NULL,253,NULL
+Fe2O3,Iron oxide,Iron oxide,NULL,159.69,wtpct,fe,iron_sulfur,TRUE,TRUE,0.699433,Fe (wt%),element,5,170
+FeO,Iron oxide as FeO,Iron oxide as FeO,NULL,NULL,wtpct,fe,iron_sulfur,TRUE,TRUE,0.777311,Fe (wt%),element,5,170
+FeS2,FeS2,Pyrite (from CRS),NULL,NULL,wtpct,fes2,iron_sulfur,FALSE,FALSE,NULL,FeS2 (wt%),NULL,NULL,NULL
+Fe_HClB,Fe_HClB,Iron extracted by cold HCl,NULL,NULL,wtpct,fe_hclb,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fe_KER,Fe from kerogen extraction,Iron from kerogen extraction,NULL,NULL,wtpct,fe_ker,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Feldspar,Feldspar,Feldspar,NULL,NULL,wtpct,feldspar,mineralogy_composition,FALSE,TRUE,NULL,Feldspar (wt%),NULL,254,NULL
+Fluorapatite,Fluorapatite,Fluorapatite,NULL,NULL,wtpct,fluorapatite,mineralogy_composition,FALSE,TRUE,NULL,Fluorapatite (wt%),NULL,255,NULL
+Fm,Fermium,Fermium,100,257.095,N/A,fm,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Fr,Francium,Francium,87,223.02,N/A,fr,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Ga,Gallium,Gallium,31,69.723,ppm,ga,element,TRUE,TRUE,NULL,Ga (ppm),NULL,171,NULL
+Ga-carb,Ga from the carbonate fraction,"Gallium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ga_carb,carbonate_proxy,FALSE,TRUE,NULL,Ga-carb (ppm),NULL,60,NULL
+Gammacerane/C30 hop (ab),Gammacerane/C30 hop (ab),Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Gd,Gadolinium,Gadolinium,64,157.25,ppm,gd,element,TRUE,TRUE,NULL,Gd (ppm),NULL,172,NULL
+Gd-auth,Gd from authigenic fraction,Authigenic gadolinium after light leach on shale,NULL,NULL,ppm,gd_auth,authigenic_proxy,FALSE,FALSE,NULL,Gd-auth (ppm),NULL,NULL,NULL
+Gd-carb,Gd from the carbonate fraction,"Gadolinium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,gd_carb,carbonate_proxy,FALSE,TRUE,NULL,Gd-carb (ppm),NULL,61,NULL
+Ge,Germanium,Germanium,32,72.61,ppm,ge,element,TRUE,TRUE,NULL,Ge (ppm),NULL,173,NULL
+Ge-carb,Ge from the carbonate fraction,"Germanium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ge_carb,carbonate_proxy,FALSE,TRUE,NULL,Ge-carb (ppm),NULL,62,NULL
+Glauberite,Glauberite,Glauberite,NULL,NULL,wtpct,glauberite,mineralogy_composition,FALSE,FALSE,NULL,Glauberite (wt%),NULL,NULL,NULL
+Glauconite,Glauconite,Glauconite,NULL,NULL,wtpct,glauconite,mineralogy_composition,FALSE,TRUE,NULL,Glauconite (wt%),NULL,256,NULL
+Goethite,Goethite,Goethite,NULL,NULL,wtpct,goethite,mineralogy_composition,FALSE,FALSE,NULL,Goethite (wt%),NULL,NULL,NULL
+Graphite,Graphite,Graphite,NULL,NULL,wtpct,graphite,mineralogy_composition,FALSE,FALSE,NULL,Graphite (wt%),NULL,NULL,NULL
+Gypsum,Gypsum,Gypsum,NULL,NULL,wtpct,gypsum,mineralogy_composition,FALSE,TRUE,NULL,Gypsum (wt%),NULL,257,NULL
+H,Hydrogen,Hydrogen,1,1.008,wtpct,h,element,FALSE,FALSE,NULL,H (wt%),NULL,NULL,NULL
+H2O_m,H2O_m,"Concentration of moisture or nonessential water reported as percent H2O-, defined as the amount of water lost from the sample after heating to 110 deg. C",NULL,NULL,wtpct,h2o_m,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+H2O_p,H2O_p,"Concentration of bound or essential water reported as percent H2O+, defined as the amount of water remaining in the sample after determination of H2O-",NULL,NULL,wtpct,h2o_p,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+H2O_t,H2O_t,Concentration of water (both essential and nonessential) reported percent H2O.,NULL,NULL,wtpct,h2o_t,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+HREE,Heavy REE,Heavy rare earth elements,NULL,NULL,ppm,hree,element,FALSE,TRUE,NULL,HREE (ppm),NULL,228,NULL
+HREE-carb,HREE-carb,"Heavy rare earth elements extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,hree_carb,carbonate_proxy,FALSE,TRUE,NULL,HREE-carb (ppm),NULL,103,NULL
+H_KER,H from kerogen extraction,NULL,NULL,NULL,wtpct,h_ker,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Halite,Halite,Halite,NULL,NULL,wtpct,halite,mineralogy_composition,FALSE,TRUE,NULL,Halite (wt%),NULL,258,NULL
+He,Helium,Helium,2,4.003,N/A,he,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Hedenbergite,Hedenbergite,Hedenbergite,NULL,NULL,wtpct,hedenbergite,mineralogy_composition,FALSE,FALSE,NULL,Hedenbergite (wt%),NULL,NULL,NULL
+Hematite,Hematite,Hematite,NULL,NULL,wtpct,hematite,mineralogy_composition,FALSE,TRUE,NULL,Hematite (wt%),NULL,259,NULL
+Heulandite,Heulandite,Heulandite,NULL,NULL,wtpct,heulandite,mineralogy_composition,FALSE,FALSE,NULL,Heulandite (wt%),NULL,NULL,NULL
+Hexahydrite,Hexahydrite,Hexahydrite,NULL,NULL,wtpct,hexahydrite,mineralogy_composition,FALSE,FALSE,NULL,Hexahydrite (wt%),NULL,NULL,NULL
+Hf,Hafnium,Hafnium,72,178.49,ppm,hf,element,TRUE,TRUE,NULL,Hf (ppm),NULL,174,NULL
+Hf-auth,Hf from authigenic fraction,Authigenic hafnium after light leach on shale,NULL,NULL,ppm,hf_auth,authigenic_proxy,FALSE,FALSE,NULL,Hf-auth (ppm),NULL,NULL,NULL
+Hf-carb,Hf from the carbonate fraction,"Hafnium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,hf_carb,carbonate_proxy,FALSE,TRUE,NULL,Hf-carb (ppm),NULL,63,NULL
+Hg,Mercury,Mercury,80,200.59,ppm,hg,element,TRUE,TRUE,NULL,Hg (ppm),NULL,175,NULL
+Ho,Holmium,Holmium,67,164.93,ppm,ho,element,TRUE,TRUE,NULL,Ho (ppm),NULL,176,NULL
+Ho-auth,Ho from authigenic fraction,Authigenic holmium after light leach on shale,NULL,NULL,ppm,ho_auth,authigenic_proxy,FALSE,FALSE,NULL,Ho-auth (ppm),NULL,NULL,NULL
+Ho-carb,Ho from the carbonate fraction,"Holmium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ho_carb,carbonate_proxy,FALSE,TRUE,NULL,Ho-carb (ppm),NULL,64,NULL
+Holmquistite,Holmquistite,Holmquistite,NULL,NULL,wtpct,holmquistite,mineralogy_composition,FALSE,FALSE,NULL,Holmquistite (wt%),NULL,NULL,NULL
+Hs,Hassium,Hassium,108,265,N/A,hs,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Hydroxylapatite,Hydroxylapatite,Hydroxylapatite,NULL,NULL,wtpct,hydroxylapatite,mineralogy_composition,FALSE,TRUE,NULL,Hydroxylapatite (wt%),NULL,260,NULL
+I,Iodine,Iodine,53,126.904,ppm,i,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+I/Ca,I/Ca,Iodine to calcium ratio,NULL,NULL,µmol/mol,ica_ratio,carbonate_proxy,FALSE,TRUE,NULL,I/Ca,NULL,39,NULL
+I/[Ca+Mg],I/[Ca+Mg],Iodine to calcium and magnesium ratio,NULL,NULL,µmol/mol,icamg_ratio,carbonate_proxy,FALSE,TRUE,NULL,I/[Ca+Mg],NULL,40,NULL
+Illite,Illite,Illite,NULL,NULL,wtpct,illite,mineralogy_composition,FALSE,TRUE,NULL,Illite (wt%),NULL,261,NULL
+Illite comp 1,Illite comp 1,Illite comp 1 sensu Anderson+2018. Differentiated from comp2 by consistently offset 060 reflections. Comp1 likely containing a higher proportion of iron.,NULL,NULL,wtpct,illite_comp1,mineralogy_composition,FALSE,FALSE,NULL,Illite Comp 1 (wt%),NULL,NULL,NULL
+Illite comp 2,Illite comp 2,Illite comp 2 sensu Anderson+2018. Differentiated from comp1 by consistently offset 060 reflections. Comp1 likely containing a higher proportion of iron.,NULL,NULL,wtpct,illite_comp2,mineralogy_composition,FALSE,FALSE,NULL,Illite Comp 2 (wt%),NULL,NULL,NULL
+Illite_Mica,Illite and Mica,Illite and Mica,NULL,NULL,wtpct,illite_mica,mineralogy_composition,FALSE,TRUE,NULL,Illite_Mica (wt%),NULL,262,NULL
+Illite_Montmorillonite,Illite and Montmorillonite,Illite and Montmorillonite,NULL,NULL,wtpct,illite_montmorillonite,mineralogy_composition,FALSE,TRUE,NULL,Illite_Montmorillonite (wt%),NULL,263,NULL
+Illite_Muscovite,Illite and Muscovite,Illite and Muscovite,NULL,NULL,wtpct,illite_muscovite,mineralogy_composition,FALSE,TRUE,NULL,Illite_Muscovite (wt%),NULL,264,NULL
+Illite_Smectite,Illite and Smectite,Illite and Smectite,NULL,NULL,wtpct,illite_smectite,mineralogy_composition,FALSE,TRUE,NULL,Illite_Smectite (wt%),NULL,265,NULL
+Ilmenite,Ilmenite,Ilmenite,NULL,NULL,wtpct,ilmenite,mineralogy_composition,FALSE,TRUE,NULL,Ilmenite (wt%),NULL,266,NULL
+In,Indium,Indium,49,114.82,ppm,in,element,TRUE,TRUE,NULL,In (ppm),NULL,177,NULL
+Insol,Insoluble residue,Insoluble residue after acid digestion,NULL,NULL,wtpct,insol,mineralogy_composition,FALSE,TRUE,NULL,Insol (wt%),NULL,297,NULL
+Ir,Iridium,Iridium,77,192.22,ppm,ir,element,FALSE,TRUE,NULL,Ir (ppm),NULL,178,NULL
+Iron,Iron,Iron,NULL,NULL,wtpct,iron,mineralogy_composition,FALSE,FALSE,NULL,Iron (wt%),NULL,NULL,NULL
+Jarosite,Jarosite,Jarosite,NULL,NULL,wtpct,jarosite,mineralogy_composition,FALSE,TRUE,NULL,Jarosite (wt%),NULL,267,NULL
+K,Potassium,Potassium,19,39.098,wtpct,k,element,TRUE,TRUE,NULL,K (wt%),NULL,179,NULL
+K-Feldspar,K-Feldspar,Potassium-feldspar,NULL,NULL,wtpct,k_feldspar,mineralogy_composition,FALSE,TRUE,NULL,K-Feldspar (wt%),NULL,268,NULL
+K-auth,K from authigenic fraction,Authigenic potassium after light leach on shale,NULL,NULL,wtpct,k_auth,authigenic_proxy,FALSE,FALSE,NULL,K-auth (wt%),NULL,NULL,NULL
+K-carb,K from the carbonate fraction,"Potassium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,wtpct,k_carb,carbonate_proxy,FALSE,TRUE,NULL,K-carb (wt%),NULL,65,NULL
+K/Al-mica,K/Al-mica,K/Al-mica,NULL,NULL,wtpct,k_al_mica,mineralogy_composition,FALSE,TRUE,NULL,K/Al-mica (wt%),NULL,269,NULL
+K/Mg-mica,K/Mg-mica,K/Mg-mica,NULL,NULL,wtpct,k_mg_mica,mineralogy_composition,FALSE,TRUE,NULL,K/Mg-mica (wt%),NULL,270,NULL
+K2O,Potassium oxide,Potassium oxide,NULL,94.2,wtpct,k,element,FALSE,TRUE,0.830147,K (wt%),NULL,179,NULL
+Kainite,Kainite,Kainite,NULL,NULL,wtpct,kainite,mineralogy_composition,FALSE,FALSE,NULL,Kainite (wt%),NULL,NULL,NULL
+Kaolinite,Kaolinite,Kaolinite,NULL,NULL,wtpct,kaolinite,mineralogy_composition,FALSE,TRUE,NULL,Kaolinite (wt%),NULL,271,NULL
+Kieserite,Kieserite,Kieserite,NULL,NULL,wtpct,kieserite,mineralogy_composition,FALSE,FALSE,NULL,Kieserite (wt%),NULL,NULL,NULL
+Kr,Krypton,Krypton,36,83.8,N/A,kr,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Kutnohorite,Kutnohorite,Kutnohorite,NULL,NULL,wtpct,kutnohorite,mineralogy_composition,FALSE,FALSE,NULL,Kutnohorite (wt%),NULL,NULL,NULL
+LOI,Loss on ignition,Mass loss on ignition,NULL,NULL,wtpct,loi,mineralogy_composition,TRUE,TRUE,NULL,LOI (wt%),NULL,298,NULL
+LOI-1050,Loss on ignition  1050degC,NULL,NULL,NULL,wtpct,loi_1050,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+LOI-1st,Loss on ignition (first),"Loss on ignition, first, at 600 to 650 degrees centigrade",NULL,NULL,wtpct,loi_1st,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+LOI-2nd,Loss on ignition (second),"Loss on ignition, second, at 900 to 950 degrees centigrade",NULL,NULL,N/A,loi_2nd,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+LOI-550,Loss on ignition 550degC,NULL,NULL,NULL,wtpct,loi_550,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+LREE,Light REE,Light rare earth elements,NULL,NULL,ppm,lree,element,FALSE,TRUE,NULL,LREE (ppm),NULL,226,NULL
+LREE-carb,Light REE-carb,"Light rare earth elements extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,lree_carb,carbonate_proxy,FALSE,TRUE,NULL,LREE-carb (ppm),NULL,101,NULL
+La,Lanthanum,Lanthanum,57,138.906,ppm,la,element,TRUE,TRUE,NULL,La (ppm),NULL,180,NULL
+La-auth,La from authigenic fraction,Authigenic lanthanum after light leach on shale,NULL,NULL,ppm,la_auth,authigenic_proxy,FALSE,FALSE,NULL,La-auth (ppm),NULL,NULL,NULL
+La-carb,La from the carbonate fraction,"Lanthanum extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,la_carb,carbonate_proxy,FALSE,TRUE,NULL,La-carb (ppm),NULL,66,NULL
+Laumontite,Laumontite,Laumontite,NULL,NULL,wtpct,laumontite,mineralogy_composition,FALSE,FALSE,NULL,Laumontite (wt%),NULL,NULL,NULL
+Leonite,Leonite,Leonite,NULL,NULL,wtpct,leonite,mineralogy_composition,FALSE,FALSE,NULL,Leonite (wt%),NULL,NULL,NULL
+Li,Lithium,Lithium,3,6.941,ppm,li,element,TRUE,TRUE,NULL,Li (ppm),NULL,181,NULL
+Li-auth,Li from authigenic fraction,Authigenic lithium after light leach on shale,NULL,NULL,ppm,li_auth,authigenic_proxy,FALSE,FALSE,NULL,Li-auth (ppm),NULL,NULL,NULL
+Li-carb,Li from the carbonate fraction,"Lithium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,li_carb,carbonate_proxy,FALSE,TRUE,NULL,Li-carb (ppm),NULL,67,NULL
+Lr,Lawrencium,Lawrencium,103,260.105,N/A,lr,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Lu,Lutetium,Lutetium,71,174.967,ppm,lu,element,TRUE,TRUE,NULL,Lu (ppm),NULL,182,NULL
+Lu-auth,Lu from authigenic fraction,Authigenic lutetium after light leach on shale,NULL,NULL,ppm,lu_auth,authigenic_proxy,FALSE,FALSE,NULL,Lu-auth (ppm),NULL,NULL,NULL
+Lu-carb,Lu from the carbonate fraction,"Lutetium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,lu_carb,carbonate_proxy,FALSE,TRUE,NULL,Lu-carb (ppm),NULL,68,NULL
+MLOI,MLOI,From Ozchem,NULL,NULL,wtpct,mloi,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+MREE,Mid REE,Mid rare earth elements,NULL,NULL,ppm,mree,element,FALSE,TRUE,NULL,MREE (ppm),NULL,227,NULL
+MREE-carb,Mid REE-carb,"Mid rare earth elements extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,mree_carb,carbonate_proxy,FALSE,TRUE,NULL,MREE-carb (ppm),NULL,102,NULL
+Magnesite,Magnesite,Magnesite,NULL,NULL,wtpct,magnesite,mineralogy_composition,FALSE,TRUE,NULL,Magnesite (wt%),NULL,272,NULL
+Magnetite,Magnetite,Magnetite,NULL,NULL,wtpct,magnetite,mineralogy_composition,FALSE,TRUE,NULL,Magnetite (wt%),NULL,273,NULL
+Marcasite,Marcasite,Marcasite,NULL,NULL,wtpct,marcasite,mineralogy_composition,FALSE,TRUE,NULL,Marcasite (wt%),NULL,274,NULL
+Md,Mendelevium,Mendelevium,101,258.099,N/A,md,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mg,Magnesium,Magnesium,12,24.305,wtpct,mg,element,TRUE,TRUE,NULL,Mg (wt%),NULL,183,NULL
+Mg-Chlorite,Mg-Chlorite,Mg-Chlorite,NULL,NULL,wtpct,mg-chlorite,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mg-SeqA,Magnesium from SeqA,"Magnesium extracted using the SeqA method, first step in sequential iron extraction method of Poulton and Canfield, 2005",NULL,NULL,wtpct,mg_seqa,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mg-SeqC,Magnesium from SeqC,"Magnesium extracted using the SeqC method, third step in sequential iron extraction method of Poulton and Canfield, 2005",NULL,NULL,wtpct,mg_seqc,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mg-auth,Mg from authigenic fraction,Authigenic magnesium after light leach on shale,NULL,NULL,wtpct,mg_auth,authigenic_proxy,FALSE,FALSE,NULL,Mg-auth (wt%),NULL,NULL,NULL
+Mg-carb,Mg from the carbonate fraction,"Magnesium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,wtpct,mg_carb,carbonate_proxy,FALSE,TRUE,NULL,Mg-carb (wt%),NULL,69,NULL
+MgCO3,Magnesium carbonate,Magnesium carbonate,NULL,NULL,wtpct,mgco3,carbon,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+MgO,Magnesium oxide,Magnesium oxide,NULL,40.304,wtpct,mg,element,TRUE,TRUE,0.603036,Mg (wt%),NULL,183,NULL
+Mica,Mica,Mica,NULL,NULL,wtpct,mica,mineralogy_composition,FALSE,TRUE,NULL,Mica (wt%),NULL,275,NULL
+Microcline,Microcline,Microcline,NULL,NULL,wtpct,microcline,mineralogy_composition,FALSE,TRUE,NULL,Microcline (wt%),NULL,276,NULL
+Mixed_Layer_Clays,Mixed layer clays,Mixed layer clays,NULL,NULL,wtpct,mixed_layer_clays,mineralogy_composition,FALSE,TRUE,NULL,Mixed_Layer_Clays (wt%),NULL,277,NULL
+Mn,Manganese,Manganese,25,54.938,ppm,mn,element,TRUE,TRUE,NULL,Mn (ppm),NULL,184,NULL
+Mn-SeqA,Manganese from SeqA,"Manganese extracted using the SeqA method, first step in sequential iron extraction method of Poulton and Canfield, 2005",NULL,NULL,ppm,mn_seqa,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mn-SeqC,Manganese from SeqC,"Manganese extracted using the SeqC method, third step in sequential iron extraction method of Poulton and Canfield, 2005",NULL,NULL,ppm,mn_seqc,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mn-auth,Authigenic manganese,"Authigenic manganese, from partial digest",NULL,NULL,ppm,mn_auth,NULL,FALSE,FALSE,NULL,Mn-auth (ppm),NULL,NULL,NULL
+Mn-carb,Mn from the carbonate fraction,"Manganese extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,mn_carb,carbonate_proxy,FALSE,TRUE,NULL,Mn-carb (ppm),NULL,70,NULL
+Mn/Zn-rich siderite,Mn/Zn-rich Siderite,Mn- and Zn-rich siderite,NULL,NULL,wtpct,mn_zn_rich_siderite,mineralogy_composition,FALSE,FALSE,NULL,Mn- and Zn-rich siderite (wt%),NULL,NULL,NULL
+Mn3O4,Mn3O4,NULL,NULL,NULL,ppm,mn,element,FALSE,FALSE,0.7203,Mn (ppm),NULL,NULL,NULL
+MnO,Manganese oxide,Manganese oxide,NULL,70.937,ppm,mn,element,TRUE,TRUE,0.774457,Mn (ppm),NULL,184,NULL
+MnO2,MnO2,NULL,NULL,86.937,ppm,mn,element,TRUE,TRUE,0.63193,Mn (ppm),NULL,184,NULL
+Mo,Molybdenum,Molybdenum,42,95.94,ppm,mo,element,TRUE,TRUE,NULL,Mo (ppm),NULL,185,NULL
+Mo-auth,Mo from authigenic fraction,Authigenic molybdenum after light leach on shale,NULL,NULL,ppm,mo_auth,authigenic_proxy,FALSE,FALSE,NULL,Mo-auth (ppm),NULL,NULL,NULL
+Mo-carb,Mo from the carbonate fraction,"Molybdenum extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,mo_carb,carbonate_proxy,FALSE,TRUE,NULL,Mo-carb (ppm),NULL,71,NULL
+Mo_DSP,NULL,"Unknown - from O'Sullivan, needs verification.",NULL,NULL,ppm,NULL,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Montmorillonite,Montmorillonite,Montmorillonite,NULL,NULL,wtpct,montmorillonite,mineralogy_composition,FALSE,TRUE,NULL,Montmorillonite (wt%),NULL,278,NULL
+Mt,Meitnerium,Meitnerium,109,266,N/A,mt,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mu_182W[N6/3],μ182W[N6/3],the deviation of 182W/184W of a sample from that of a standard in parts per million. are reported as normalized to 186W/183W,NULL,NULL,NULL,mu_182w[n6/3],metal_isotope,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mu_182W[N6/4],μ182W[N6/4],the deviation of 182W/184W of a sample from that of a standard in parts per million. are reported as normalized to 186W/184W,NULL,NULL,NULL,mu_182w[n6/4],metal_isotope,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mu_183W[N6/4],μ183W[N6/4],the deviation of 183W/186W of a sample from that of a standard in parts per million). μ183W is normalized to 186W/184W.,NULL,NULL,NULL,mu_183w[n6/4],metal_isotope,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Mullite,Mullite,Mullite,NULL,NULL,wtpct,mullite,mineralogy_composition,FALSE,FALSE,NULL,Mullite (wt%),NULL,NULL,NULL
+Muscovite,Muscovite,See also K/Al-Mica,NULL,NULL,wtpct,muscovite,mineralogy_composition,FALSE,TRUE,NULL,Muscovite (wt%),NULL,279,NULL
+Muscovite-2M1 (?),NULL,NULL,NULL,NULL,wtpct,NULL,mineralogy_composition,FALSE,FALSE,NULL,Muscovite-2M1 (?) (wt%),NULL,NULL,NULL
+Muscovite_Illite_Montmorillonite,Muscovite Illite Montmorillonite,Muscovite Illite Montmorillonite,NULL,NULL,wtpct,muscovite_illite_montmorillonite,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+N,Nitrogen,Nitrogen,7,14.007,wtpct,n,nitrogen_phosphorous,TRUE,TRUE,NULL,N (wt%),element,105,186
+NAVS,Non-acid-volatile S,Non-acid-volatile sulfur,NULL,NULL,wtpct,navs,NULL,FALSE,FALSE,NULL,non-AVS (wt%),NULL,NULL,NULL
+NSO,Resin EOM,nitrogen-sulfur-oxygen hydrocarbon,NULL,NULL,mg,nso,carbon,FALSE,FALSE,NULL,Resin (nitrogen-sulfur-oxygen [NSO]) hydrocarbon (mg),NULL,NULL,NULL
+N_KER,Kerogen N,Kerogen nitrogen,NULL,NULL,wtpct,n_ker,nitrogen_phosphorous,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+N_ORG,Organic N,Organic nitrogen,NULL,NULL,wtpct,n_org,nitrogen_phosphorous,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Na,Sodium,Sodium,11,22.99,wtpct,na,element,TRUE,TRUE,NULL,Na (wt%),NULL,187,NULL
+Na-carb,Na from the carbonate fraction,"Sodium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,wtpct,na_carb,carbonate_proxy,FALSE,TRUE,NULL,Na-carb (wt%),NULL,72,NULL
+Na2O,Sodium oxide,Sodium oxide,NULL,61.979,wtpct,na,element,TRUE,TRUE,0.741857,Na (wt%),NULL,187,NULL
+Natrojarosite,Natrojarosite,Natrojarosite,NULL,NULL,wtpct,natrojarosite,mineralogy_composition,FALSE,FALSE,NULL,Natrojarosite (wt%),NULL,NULL,NULL
+Nb,Niobium,Niobium,41,92.906,ppm,nb,element,TRUE,TRUE,NULL,Nb (ppm),NULL,188,NULL
+Nb-auth,Nb from authigenic fraction,Authigenic niobium after light leach on shale,NULL,NULL,ppm,nb_auth,authigenic_proxy,FALSE,FALSE,NULL,Nb-auth (ppm),NULL,NULL,NULL
+Nb-carb,Nb from the carbonate fraction,"Niobium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,nb_carb,carbonate_proxy,FALSE,TRUE,NULL,Nb-carb (ppm),NULL,73,NULL
+Nd,Neodymium,Neodymium,60,144.24,ppm,nd,element,TRUE,TRUE,NULL,Nd (ppm),NULL,189,NULL
+Nd-auth,Nd from authigenic fraction,Authigenic neodymium after light leach on shale,NULL,NULL,ppm,nd_auth,authigenic_proxy,FALSE,FALSE,NULL,Nd-auth (ppm),NULL,NULL,NULL
+Nd-carb,Nd from the carbonate fraction,"Neodymium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,nd_carb,carbonate_proxy,FALSE,TRUE,NULL,Nd-carb (ppm),NULL,74,NULL
+Nd143_Nd144,Nd143_Nd144,ratio of neodymium isotopes Nd143 to Nd144,NULL,NULL,none,nd143_nd144,metal_isotope,TRUE,TRUE,NULL,Nd143/Nd144,NULL,139,NULL
+Nd143_Nd144(t),Nd143_Nd144,NULL,NULL,NULL,none,nd143_nd144_t,metal_isotope,FALSE,FALSE,NULL,Nd143/Nd144(t),NULL,NULL,NULL
+Ne,Neon,Neon,10,20.18,N/A,ne,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Ni,Nickel,Nickel,28,58.69,ppm,ni,element,TRUE,TRUE,NULL,Ni (ppm),NULL,191,NULL
+Ni-auth,Ni from authigenic fraction,Authigenic nickel after light leach on shale,NULL,NULL,ppm,ni_auth,authigenic_proxy,FALSE,FALSE,NULL,Ni-auth (ppm),NULL,NULL,NULL
+Ni-carb,Ni from the carbonate fraction,"Nikel extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ni_carb,carbonate_proxy,FALSE,TRUE,NULL,Ni-carb (ppm),NULL,75,NULL
+NiO,Nickel oxide,Nickel oxide,NULL,74.693,ppm,ni,element,FALSE,TRUE,0.785845,Ni (ppm),NULL,190,NULL
+No,Nobelium,Nobelium,102,259.101,N/A,no,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Nontronite,Nontronite,Nontronite,NULL,NULL,wtpct,nontronite,mineralogy_composition,FALSE,TRUE,NULL,Nontronite (wt%),NULL,280,NULL
+Np,Neptunium,Neptunium,93,237.048,N/A,np,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+O,Oxygen,Oxygen,8,15.999,N/A,o,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Oligonite,Oligonite,Oligonite,NULL,NULL,wtpct,oligonite,mineralogy_composition,FALSE,FALSE,NULL,Oligonite (wt%),NULL,NULL,NULL
+Orthoclase,Orthoclase,See also K-Feldspar,NULL,NULL,wtpct,orthoclase,mineralogy_composition,FALSE,TRUE,NULL,Orthoclase (wt%),NULL,281,NULL
+Os,Osmium,Osmium,76,190.2,ppt,os,element,FALSE,TRUE,NULL,Os (ppt),NULL,192,NULL
+Os187_Os188,187Os/188Os,ratio of osmium isotopes os187 to os188,NULL,NULL,none,os187_os188,metal_isotope,FALSE,TRUE,NULL,Os187/Os188,NULL,142,NULL
+Os187_Os188(I),187Os/188Os at initial age,ratio of osmium isotopes os187 to os188 at initial age,NULL,NULL,none,os187_os188_i,metal_isotope,TRUE,TRUE,NULL,Osi,NULL,143,NULL
+Os_common,Common Os,"Radiogenic 187Os produced by 187Re decay subtracted, based on the depositional ages reported in the literature measured 187Re/188Os",NULL,NULL,ppb,os_common,metal_isotope,FALSE,FALSE,NULL,Os-common (ppb),NULL,NULL,NULL
+P,Phosphorus,Phosphorus,15,30.974,ppm,p,nitrogen_phosphorous,TRUE,TRUE,NULL,P (ppm),element,109,193
+P-AlFe,Al∕Fe-oxyhydroxide-bound phosphorus,Al∕Fe-oxyhydroxide-bound phosphorus,NULL,NULL,ppm,p_alfe,nitrogen_phosphorous,FALSE,FALSE,NULL,P-Al/Fe (ppm),NULL,NULL,NULL
+P-Ca,Phosphorous bound to calcium,Phosphorous bound to calcium,NULL,NULL,ppm,p_ca,nitrogen_phosphorous,FALSE,FALSE,NULL,P-Ca (ppm),NULL,NULL,NULL
+P-Fe1(seq),Phosphorous bound to ferric iron,"P from SeqA_phos method - P bound to reducible/reactive ferric iron minerals. Same method as P-Fe, but as part of longer sequential extraction, which also includes P-Fe2.",NULL,NULL,ppm,p_fe1_seq,nitrogen_phosphorous,FALSE,TRUE,NULL,P-Fe1(seq) (ppm),NULL,110,NULL
+P-Fe1+auth(seq),P-Fe1+P-auth,P-Fe1+P-auth extracted together (see Beaty et al. 2025),NULL,NULL,ppm,p_fe1_auth_seq,nitrogen_phosphorous,FALSE,FALSE,NULL,P-Fe1/auth (ppm),NULL,NULL,NULL
+P-Fe2(seq),Crystalline Fe-bound P,P from SeqE_phos_mod method of Thompson et al. 2019 ,NULL,NULL,ppm,p_fe2_seq,nitrogen_phosphorous,FALSE,TRUE,NULL,P-Fe2(seq) (ppm),NULL,114,NULL
+P-auth,P from authigenic fraction,Authigenic phosphorous after light leach on shale,NULL,NULL,ppm,p_auth,authigenic_proxy,FALSE,FALSE,NULL,P-auth (ppm),NULL,NULL,NULL
+P-auth(seq),"Authigenic apatite CaCO3-bound P, biogenic apatite",P from SeqB_phos  method of Thompson et al. 2019 - also known as P-carb,NULL,NULL,ppm,p_auth_seq,nitrogen_phosphorous,FALSE,TRUE,NULL,P-auth(seq) (ppm),NULL,111,NULL
+P-carb,P from the carbonate fraction,"Phosphorous extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,p_carb,carbonate_proxy,FALSE,TRUE,NULL,P-carb (ppm),NULL,76,NULL
+P-det(seq),Crystalline apatite P,P from SeqC_phos method - also known as Pcryst or P-xl - see Thompson et al. 2019. ,NULL,NULL,ppm,p_det_seq,nitrogen_phosphorous,FALSE,TRUE,NULL,P-det(seq) (ppm),NULL,112,NULL
+P-fish,Biogenic hydroxyapatite,"Biogenic hydroxyapatite from a fish debris extraction (Schenau & De Lange, 2000)",NULL,NULL,NULL,p_fish,nitrogen_phosphorous,FALSE,FALSE,NULL,P-fish (ppm),NULL,NULL,NULL
+P-inorg,Inorganic phosphorous,NULL,NULL,NULL,ppm,p_inorg,nitrogen_phosphorous,FALSE,TRUE,NULL,P-inorg (ppm),NULL,116,NULL
+P-mag(seq),Magnetite-bound P,P from SeqD_phos_mod method of Thompson et al. 2019,NULL,NULL,ppm,p_mag_seq,nitrogen_phosphorous,FALSE,TRUE,NULL,P-mag(seq) (ppm),NULL,113,NULL
+P-org(seq),Organic phosphorus,"P from SeqFphos(mod) method of Thompson et al. 2019 or from SeqDphos method of Ruttenberg. Same method, at different stages of sequential.",NULL,NULL,ppm,p_org_seq,nitrogen_phosphorous,FALSE,TRUE,NULL,P-org(seq) (ppm),NULL,115,NULL
+P-res(seq),Residual P,"P remaining in residue after P_org extraction, extracted via total digestion of the dried residue",NULL,NULL,ppm,p_res,nitrogen_phosphorous,FALSE,FALSE,NULL,P-res(seq) (ppm),NULL,NULL,NULL
+P2O5,Phosphorous pentoxide,Phosphorous pentoxide,NULL,283.889,ppm,p,nitrogen_phosphorous,TRUE,TRUE,0.436421,P (ppm),element,109,193
+Pa,Protactinium,Protactinium,91,231.036,N/A,pa,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Palygorskite,Palygorskite,Palygorskite,NULL,NULL,wtpct,palygorskite,mineralogy_composition,FALSE,FALSE,NULL,Palygorskite (wt%),NULL,NULL,NULL
+Paragonite,Paragonite,Paragonite,NULL,NULL,wtpct,paragonite,mineralogy_composition,FALSE,FALSE,NULL,Paragonite (wt%),NULL,NULL,NULL
+Pb,Lead,Lead,82,207.2,ppm,pb,element,TRUE,TRUE,NULL,Pb (ppm),NULL,194,NULL
+Pb-auth,Pb from authigenic fraction,Authigenic lead after light leach on shale,NULL,NULL,ppm,pb_auth,authigenic_proxy,FALSE,FALSE,NULL,Pb-auth (ppm),NULL,NULL,NULL
+Pb-carb,Pb from the carbonate fraction,"Lead extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,pb_carb,carbonate_proxy,FALSE,TRUE,NULL,Pb-carb (ppm),NULL,77,NULL
+Pb206_Pb204,206Pb/204Pb,ratio of lead isotopes 206Pb to 204Pb,NULL,NULL,none,pb206_pb204,metal_isotope,FALSE,FALSE,NULL,Pb206/Pb204,NULL,NULL,NULL
+Pb207_Pb204,207Pb/204Pb,ratio of lead isotopes 207Pb to 204Pb,NULL,NULL,none,pb207_pb204,metal_isotope,FALSE,FALSE,NULL,Pb207/Pb204,NULL,NULL,NULL
+Pb208_Pb204,208Pb/204Pb,ratio of lead isotopes 208Pb to 204Pb,NULL,NULL,none,pb208_pb204,metal_isotope,FALSE,FALSE,NULL,Pb208/Pb204,NULL,NULL,NULL
+Pd,Palladium,Palladium,46,106.42,ppb,pd,element,FALSE,TRUE,NULL,Pd (ppb),NULL,195,NULL
+Pentahydrite,Pentahydrite,Pentahydrite,NULL,NULL,wtpct,pentahydrite,mineralogy_composition,FALSE,FALSE,NULL,Pentahydrite (wt%),NULL,NULL,NULL
+Phlogopite,Phlogopite,Phlogopite,NULL,NULL,wtpct,phlogopite,mineralogy_composition,FALSE,FALSE,NULL,Phlogopite (wt%),NULL,NULL,NULL
+Phytane,Phytane,Phytane,NULL,NULL,ug/g,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Plagioclase,Plagioclase,Plagioclase,NULL,NULL,wtpct,plagioclase,mineralogy_composition,FALSE,TRUE,NULL,Plagioclase (wt%),NULL,282,NULL
+Pm,Promethium,Promethium,61,146.915,ppm,pm,element,FALSE,FALSE,NULL,Pm (ppm),NULL,NULL,NULL
+Po,Polonium,Polonium,84,208.982,N/A,po,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Pr,Praseodymium,Praseodymium,59,140.908,ppm,pr,element,TRUE,TRUE,NULL,Pr (ppm),NULL,196,NULL
+Pr-auth,Pr from authigenic fraction,Authigenic praseodymium after light leach on shale,NULL,NULL,ppm,pr_auth,authigenic_proxy,FALSE,FALSE,NULL,Pr-auth (ppm),NULL,NULL,NULL
+Pr-carb,Pr from the carbonate fraction,"Praseodymium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,pr_carb,carbonate_proxy,FALSE,TRUE,NULL,Pr-carb (ppm),NULL,78,NULL
+Pr/Ph,Pristane/Phytane,Biomarker,NULL,NULL,none,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Pristane,Pristane,Pristane,NULL,NULL,ug/g,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Pt,Platinum,Platinum,78,195.08,ppb,pt,element,FALSE,TRUE,NULL,Pt (ppb),NULL,197,NULL
+Pu,Plutonium,Plutonium,94,244.064,N/A,pu,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Pyrite,Pyrite,Pyrite,NULL,NULL,wtpct,pyrite,mineralogy_composition,FALSE,TRUE,NULL,Pyrite (wt%),NULL,283,NULL
+Pyrrhotite,Pyrrhotite,Pyrrhotite,NULL,NULL,wtpct,pyrrhotite,mineralogy_composition,FALSE,TRUE,NULL,Pyrrhotite (wt%),NULL,284,NULL
+Quartz,Quartz,Quartz,NULL,NULL,wtpct,quartz,mineralogy_composition,FALSE,TRUE,NULL,Quartz (wt%),NULL,285,NULL
+Quartz_Christobalite,Quartz with christolbalite,Quartz with christolbalite,NULL,NULL,wtpct,quartz_christobalite,mineralogy_composition,FALSE,TRUE,NULL,Quartz (w/christobalite) (wt%),NULL,286,NULL
+REE,REE,Rare earth elements,NULL,NULL,ppm,ree,element,FALSE,TRUE,NULL,REE (ppm),NULL,225,NULL
+REE-carb,REE-carb,"Rare earth elements extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ree_carb,carbonate_proxy,FALSE,TRUE,NULL,REE-carb (ppm),NULL,100,NULL
+REY,REE and yttrium,Rare earth elements and yttrium,NULL,NULL,ppm,rey,element,FALSE,TRUE,NULL,REY (ppm),NULL,229,NULL
+REY-carb,REY-carb,"Rare earth elements and yttrium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,rey_carb,carbonate_proxy,FALSE,TRUE,NULL,REY-carb (ppm),NULL,104,NULL
+Ra,Radium,Radium,88,226.025,N/A,ra,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Rb,Rubidium,Rubidium,37,85.468,ppm,rb,element,TRUE,TRUE,NULL,Rb (ppm),NULL,198,NULL
+Rb-auth,Rb from authigenic fraction,Authigenic rubidium after light leach on shale,NULL,NULL,ppm,rb_auth,authigenic_proxy,FALSE,FALSE,NULL,Rb-auth (ppm),NULL,NULL,NULL
+Rb-carb,Rb from the carbonate fraction,"Rubidium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,rb_carb,carbonate_proxy,FALSE,TRUE,NULL,Rb-carb (ppm),NULL,79,NULL
+Re,Rhenium,Rhenium,75,186.207,ppm,re,element,TRUE,TRUE,NULL,Re (ppm),NULL,199,NULL
+Re-carb,Re from the carbonate fraction,"Rhemium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,re_carb,carbonate_proxy,FALSE,TRUE,NULL,Re-carb (ppm),NULL,80,NULL
+Re187_Os188,187Re/188Os,ratio of rhenium isotope re187 to osmium isotope os188,NULL,NULL,none,re187_os188,metal_isotope,FALSE,TRUE,NULL,Re187/Os188,NULL,144,NULL
+Rectorite,Rectorite,Rectorite,NULL,NULL,wtpct,rectorite,mineralogy_composition,FALSE,FALSE,NULL,Rectorite (wt%),NULL,NULL,NULL
+Rest,Rest,From OZCHEM: Most trace elements are converted to oxide percent and then summed in this field,NULL,NULL,wtpct,rest,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Rf,Rutherfordium,Rutherfordium,104,261.109,N/A,rf,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Rg,Roentgenium,Roentgenium,111,272,N/A,rg,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Rh,Rhodium,Rhodium,45,102.906,ppm,rh,element,FALSE,FALSE,NULL,Rh (ppm),NULL,NULL,NULL
+Rhodochrosite,Rhodochrosite,Rhodochrosite,NULL,NULL,wtpct,rhodochrosite,mineralogy_composition,FALSE,TRUE,NULL,Rhodochrosite (wt%),NULL,287,NULL
+Rn,Radon,Radon,86,222.018,N/A,rn,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Ro%_meas,Vitrinite reflectance,Measured vitrinite reflectance,NULL,NULL,pct,ro_meas,NULL,FALSE,FALSE,NULL,Ro(%),NULL,NULL,NULL
+Ru,Ruthenium,Ruthenium,44,101.07,ppm,ru,element,FALSE,FALSE,NULL,Ru (ppm),NULL,NULL,NULL
+Rutile,Rutile,Rutile,NULL,NULL,wtpct,rutile,mineralogy_composition,FALSE,TRUE,NULL,Rutile (wt%),NULL,288,NULL
+S,Sulphur,Sulphur,16,32.066,wtpct,s,iron_sulfur,TRUE,TRUE,NULL,S (wt%),element,16,200
+S-AVS,AVS-associated sulfur,NULL,NULL,NULL,wtpct,s_avs,NULL,FALSE,FALSE,NULL,S-AVS (wt%),NULL,NULL,NULL
+S1,S1,Rock-Eval Pyrolysis S1: amount of free hydrocarbon per unit amount of the sample. ,NULL,NULL,mgHC/g,s1,carbon,TRUE,TRUE,NULL,S1 (mgHC/g),NULL,26,NULL
+S2,S2,Rock-Eval Pyrolysis S2: amount of hydrocarbons generated by pyrolytic degradation per unit amount of sample,NULL,NULL,mgHC/g,s2,carbon,TRUE,TRUE,NULL,S2 (mgHC/g),NULL,27,NULL
+S3,S3,Rock-Eval Pyrolysis S3: amount of CO2 generated per unit amount of the sample,NULL,NULL,mgCO2/g,s3,carbon,TRUE,TRUE,NULL,S3 (mgCO2/g),NULL,28,NULL
+S3',S3',"Rock-Eval Pyrolysis S3': CO2 from the Cinorg fraction(according to Ordonez et al. 2019, Organic Geochemistry)",NULL,NULL,mgCO2/g,s3_two,carbon,FALSE,FALSE,NULL,S3' (mgCO2/g),NULL,NULL,NULL
+S3'CO,S3'CO,"Rock-Eval Pyrolysis S3'CO: CO from the Cinorg fraction(according to Ordonez et al. 2019, Organic Geochemistry)",NULL,NULL,mgCO/g,s3_two_co,carbon,FALSE,FALSE,NULL,S3'CO (mgCO/g),NULL,NULL,NULL
+S3CO,S3CO,Rock-Eval Pyrolysis S3CO: amount of CO generated per unit amount of the sample,NULL,NULL,mgCO/g,s3co,carbon,FALSE,FALSE,NULL,S3CO (mgCO/g),NULL,NULL,NULL
+S3CO2,NULL,NULL,NULL,NULL,NULL,NULL,carbon,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+S4,S4,Rock-Eval Pyrolysis S4: The residual carbon content of the sample,NULL,NULL,mgC/g,s4,carbon,FALSE,FALSE,NULL,S4 (mgC/g),NULL,NULL,NULL
+S4CO,S4CO,Organic CO in [milligrams of CO per gram of rock]. (definition from AGS),NULL,NULL,mgCO/g,s4co,carbon,FALSE,FALSE,NULL,S4CO (mgCO/g),NULL,NULL,NULL
+S4CO2,S4CO2,Organic CO2 in [milligrams of CO2 per gram of rock] (definition from AGS),NULL,NULL,mgCO2/g,s4co2,carbon,FALSE,FALSE,NULL,S4CO2 (mgCO2/g),NULL,NULL,NULL
+S5,S5,HAWK S5,NULL,NULL,mgCO2/g,s5,carbon,FALSE,FALSE,NULL,S5 (mgCO2/g),NULL,NULL,NULL
+SO3,SO3,Sufur trioxide,NULL,NULL,wtpct,so3,iron_sulfur,FALSE,FALSE,0.400459,NULL,NULL,NULL,NULL
+SO4,SO4,Sulfate,NULL,NULL,wtpct,so4,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+S_KER,S from kerogen extraction,S from kerogen extraction,NULL,NULL,wtpct,s_ker,iron_sulfur,FALSE,FALSE,NULL,S-ker (wt%),NULL,NULL,NULL
+S_ORG,S_ORG,Concentration of organic sulfur reported as percent S,NULL,NULL,wtpct,s_org,iron_sulfur,TRUE,TRUE,NULL,S-org (wt%),NULL,19,NULL
+S_PY,Pyrite sulfur,Pyrite sulfur,16,32.066,wtpct,s_py,iron_sulfur,TRUE,TRUE,NULL,S-py (wt%),NULL,17,NULL
+S_SFD,S_SFD,Concentration of sulfide sulfur reported as percent S,NULL,NULL,wtpct,s_sfd,iron_sulfur,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+S_SO4,S_SO4,Concentration of sulfate sulfur reported as percent S,NULL,NULL,wtpct,s_so4,iron_sulfur,TRUE,TRUE,NULL,S-SO4 (wt%),NULL,20,NULL
+Sanidine,Sanidine,Sanidine,NULL,NULL,wtpct,sanidine,mineralogy_composition,FALSE,TRUE,NULL,Sanidine (wt%),NULL,289,NULL
+Saponite,Saponite,Saponite,NULL,NULL,wtpct,saponite,mineralogy_composition,FALSE,FALSE,NULL,Saponite (wt%),NULL,NULL,NULL
+Sat,Saturated EOM,NULL,NULL,NULL,mg,sat,carbon,FALSE,FALSE,NULL,Saturated hydrocarbon (mg),NULL,NULL,NULL
+Sb,Antimony,Antimony,51,121.75,ppm,sb,element,TRUE,TRUE,NULL,Sb (ppm),NULL,201,NULL
+Sb-carb,Sb from the carbonate fraction,"Antimony extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,sb_carb,carbonate_proxy,FALSE,TRUE,NULL,Sb-carb (ppm),NULL,81,NULL
+Sc,Scandium,Scandium,21,44.956,ppm,sc,element,TRUE,TRUE,NULL,Sc (ppm),NULL,202,NULL
+Sc-auth,Sc from authigenic fraction,Authigenic scandium after light leach on shale,NULL,NULL,ppm,sc_auth,authigenic_proxy,FALSE,FALSE,NULL,Sc-auth (ppm),NULL,NULL,NULL
+Sc-carb,Sc from the carbonate fraction,"Scandium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,sc_carb,carbonate_proxy,FALSE,TRUE,NULL,Sc-carb (ppm),NULL,82,NULL
+Se,Selenium,Selenium,34,78.96,ppm,se,element,FALSE,TRUE,NULL,Se (ppm),NULL,203,NULL
+Se-carb,Se from the carbonate fraction,"Selenium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,se_carb,carbonate_proxy,FALSE,TRUE,NULL,Se-carb (ppm),NULL,83,NULL
+Sepiolite,Sepiolite,Sepiolite,NULL,NULL,wtpct,sepiolite,mineralogy_composition,FALSE,FALSE,NULL,Sepiolite (wt%),NULL,NULL,NULL
+Sergeevite,Sergeevite,Sergeevite,NULL,NULL,wtpct,sergeevite,mineralogy_composition,FALSE,FALSE,NULL,Sergeevite (wt%),NULL,NULL,NULL
+Serpentine,Serpentine,Serpentine,NULL,NULL,wtpct,titanite,mineralogy_composition,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Sg,Seaborgium,Seaborgium,106,263.118,N/A,sg,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Si,Silicon,Silicon,14,28.086,wtpct,si,element,TRUE,TRUE,NULL,Si (wt%),NULL,204,NULL
+SiO2,Silicon oxide,Silicon oxide,NULL,60.08,wtpct,si,element,TRUE,TRUE,0.467439,Si (wt%),NULL,204,NULL
+Siderite,Siderite,Siderite,NULL,NULL,wtpct,siderite,mineralogy_composition,FALSE,TRUE,NULL,Siderite (wt%),NULL,290,NULL
+Siliciclastic,Siliciclastic,Siliciclastic,NULL,NULL,wtpct,siliciclastic,mineralogy_composition,FALSE,FALSE,NULL,Siliciclastic (wt%),NULL,NULL,NULL
+Sm,Samarium,Samarium,62,150.36,ppm,sm,element,TRUE,TRUE,NULL,Sm (ppm),NULL,205,NULL
+Sm-auth,Sm from authigenic fraction,Authigenic samarium after light leach on shale,NULL,NULL,ppm,sm_auth,authigenic_proxy,FALSE,FALSE,NULL,Sm-auth (ppm),NULL,NULL,NULL
+Sm-carb,Sm from the carbonate fraction,"Samarium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,sm_carb,carbonate_proxy,FALSE,TRUE,NULL,Sm-carb (ppm),NULL,84,NULL
+Sm147_Nd144,147Sm/144Nd,ratio of samarium isotope sm147 to neodymium isotope nd144,NULL,NULL,none,sm147_nd144,metal_isotope,FALSE,TRUE,NULL,Sm147/Nd144,NULL,140,NULL
+Smectite,Smectite,Smectite,NULL,NULL,wtpct,smectite,mineralogy_composition,FALSE,TRUE,NULL,Smectite (wt%),NULL,291,NULL
+Sn,Tin,Tin,50,118.71,ppm,sn,element,TRUE,TRUE,NULL,Sn (ppm),NULL,206,NULL
+Sn-carb,Sn from the carbonate fraction,"Tin extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,sn_carb,carbonate_proxy,FALSE,TRUE,NULL,Sn-carb (ppm),NULL,85,NULL
+Sphalerite,Sphalerite,Sphalerite,NULL,NULL,wtpct,sphalerite,mineralogy_composition,FALSE,TRUE,NULL,Sphalerite (wt%),NULL,292,NULL
+Sr,Strontium,Strontium,38,87.62,ppm,sr,element,TRUE,TRUE,NULL,Sr (ppm),NULL,207,NULL
+Sr-auth,Sr from authigenic fraction,Authigenic strontium after light leach on shale,NULL,NULL,ppm,sr_auth,authigenic_proxy,FALSE,FALSE,NULL,Sr-auth (ppm),NULL,NULL,NULL
+Sr-carb,Sr from the carbonate fraction,"Strontium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,sr_carb,carbonate_proxy,FALSE,TRUE,NULL,Sr-carb (ppm),NULL,86,NULL
+Sr87_Sr86,87Sr/86Sr,ratio of strontium isotopes sr87 to sr86,NULL,NULL,none,sr87_sr86,metal_isotope,FALSE,TRUE,NULL,Sr87/Sr86,NULL,145,NULL
+SrO,Strontium oxide,Strontium oxide,NULL,NULL,ppm,sr,element,TRUE,TRUE,0.845595,Sr (ppm),NULL,207,NULL
+Starkeyite,Starkeyite,Starkeyite,NULL,NULL,wtpct,starkeyite,mineralogy_composition,FALSE,FALSE,NULL,Starkeyite (wt%),NULL,NULL,NULL
+Stilpnomelane,Stilpnomelane,Stilpnomelane,NULL,NULL,wtpct,stilpnomelane,mineralogy_composition,FALSE,FALSE,NULL,Stilpnomelane (wt%),NULL,NULL,NULL
+Sum,Sum,Sum of elements,NULL,NULL,wtpct,sum,mineralogy_composition,FALSE,TRUE,NULL,Sum (wt%),NULL,299,NULL
+Sylvite,Sylvite,Sylvite,NULL,NULL,wtpct,sylvite,mineralogy_composition,FALSE,FALSE,NULL,Sylvite (wt%),NULL,NULL,NULL
+Szomolnokite,Szomolnokite,Szomolnokite,NULL,NULL,wtpct,szomolnokite,mineralogy_composition,FALSE,FALSE,NULL,Szomolnokite (wt%),NULL,NULL,NULL
+T,Temp,Temperature - clumped isotopes,NULL,NULL,degC,temp,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+TIC,Total inorganic carbon,Total inorganic carbon,6,12.011,wtpct,tic,carbon,TRUE,TRUE,NULL,TIC (wt%),NULL,24,NULL
+TOC,Total organic carbon,Total organic carbon,6,12.011,wtpct,toc,carbon,TRUE,TRUE,NULL,TOC (wt%),NULL,23,NULL
+TOC_KER,TOC kerogen,Total organic carbon after kerogen extraction,NULL,NULL,wtpct,toc_ker,carbon,FALSE,FALSE,NULL,TOC-ker (wt%),NULL,NULL,NULL
+TOM,Total organic matter,Total organic matter,NULL,NULL,wtpct,tom,carbon,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+T_Nd_CHUR,NULL,NULL,NULL,NULL,NULL,t_nd_chur,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+T_Nd_Cont,NULL,NULL,NULL,NULL,NULL,t_nd_cont,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+T_Nd_DM,NULL,Depleted mantle model ages,NULL,NULL,NULL,t_nd_dm,NULL,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Ta,Tantalum,Tantalum,73,180.948,ppm,ta,element,TRUE,TRUE,NULL,Ta (ppm),NULL,208,NULL
+Ta-carb,Ta from the carbonate fraction,"Tantalum extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,ta_carb,carbonate_proxy,FALSE,TRUE,NULL,Ta-carb (ppm),NULL,87,NULL
+Talc,Talc,Talc,NULL,NULL,wtpct,talc,mineralogy_composition,FALSE,TRUE,NULL,Talc (wt%),NULL,293,NULL
+Tb,Terbium,Terbium,65,158.925,ppm,tb,element,TRUE,TRUE,NULL,Tb (ppm),NULL,209,NULL
+Tb-auth,Tb from authigenic fraction,Authigenic terbium after light leach on shale,NULL,NULL,ppm,tb_auth,authigenic_proxy,FALSE,FALSE,NULL,Tb-auth (ppm),NULL,NULL,NULL
+Tb-carb,Tb from the carbonate fraction,"Terbium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,tb_carb,carbonate_proxy,FALSE,TRUE,NULL,Tb-carb (ppm),NULL,88,NULL
+Tc,Technetium,Technetium,43,98.906,N/A,tc,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Te,Tellurium,Tellurium,52,127.6,ppm,te,element,TRUE,TRUE,NULL,Te (ppm),NULL,210,NULL
+Tennantite,Tennantite,Tennantite,NULL,NULL,wtpct,tennantite,mineralogy_composition,FALSE,FALSE,NULL,Tennantite (wt%),NULL,NULL,NULL
+Th,Thorium,Thorium,90,232.038,ppm,th,element,TRUE,TRUE,NULL,Th (ppm),NULL,211,NULL
+Th-auth,Th from authigenic fraction,Authigenic thorium after light leach on shale,NULL,NULL,ppm,th_auth,authigenic_proxy,FALSE,FALSE,NULL,Th-auth (ppm),NULL,NULL,NULL
+Th-carb,Th from the carbonate fraction,"Thorium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,th_carb,carbonate_proxy,FALSE,TRUE,NULL,Th-carb (ppm),NULL,89,NULL
+Th232_U238,232Th/238U,ratio of thorium isotope Th232 to uranium isotope U238,NULL,NULL,none,th232_u238,metal_isotope,FALSE,FALSE,NULL,Th232/U238,NULL,NULL,NULL
+Ti,Titanium,Titanium,22,47.88,wtpct,ti,element,TRUE,TRUE,NULL,Ti (wt%),NULL,212,NULL
+Ti-auth,Ti from authigenic fraction,Authigenic titanium after light leach on shale,NULL,NULL,wtpct,ti_auth,authigenic_proxy,FALSE,FALSE,NULL,Ti-auth (wt%),NULL,NULL,NULL
+Ti-carb,Ti from the carbonate fraction,"Titanium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,wtpct,ti_carb,carbonate_proxy,FALSE,TRUE,NULL,Ti-carb (wt%),NULL,90,NULL
+TiO2,Titanium oxide,Titanium oxide,NULL,79.866,wtpct,ti,element,TRUE,TRUE,0.599508,Ti (wt%),NULL,212,NULL
+Titanite,Titanite,Titanite,NULL,NULL,wtpct,titanite,mineralogy_composition,FALSE,FALSE,NULL,Titanite (wt%),NULL,NULL,NULL
+Tl,Thallium,Thallium,81,204.383,ppm,tl,element,TRUE,TRUE,NULL,Tl (ppm),NULL,213,NULL
+Tl-auth,Authigenic thallium,Authigenic thallium,NULL,NULL,ppm,tl_auth,element,FALSE,TRUE,NULL,Tl-auth (ppm),NULL,214,NULL
+Tl-carb,Tl from the carbonate fraction,"Thallium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,tl_carb,carbonate_proxy,FALSE,TRUE,NULL,Tl-carb (ppm),NULL,91,NULL
+Tl-det,Detrital thallium,Detrital thallium,NULL,NULL,ppm,tl_det,NULL,FALSE,FALSE,NULL,Tl-det (ppm),NULL,NULL,NULL
+Tm,Thulium,Thulium,69,168.934,ppm,tm,element,TRUE,TRUE,NULL,Tm (ppm),NULL,215,NULL
+Tm-auth,Tm from authigenic fraction,Authigenic thulium after light leach on shale,NULL,NULL,ppm,tm_auth,authigenic_proxy,FALSE,FALSE,NULL,Tm-auth (ppm),NULL,NULL,NULL
+Tm-carb,Tm from the carbonate fraction,"Thulium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,tm_carb,carbonate_proxy,FALSE,TRUE,NULL,Tm-carb (ppm),NULL,92,NULL
+Tmax,Tmax,Rock-Eval Pyrolysis Tmax: temperature at which maximum amount of S2 hydrocarbons is generated,NULL,NULL,degC,tmax,carbon,TRUE,TRUE,NULL,Tmax (degC),NULL,29,NULL
+Topaz,Topaz,Topaz,NULL,NULL,wtpct,topaz,mineralogy_composition,FALSE,FALSE,NULL,Topaz (wt%),NULL,NULL,NULL
+Total_Carbonate,Total carbonate,Total carbonate (XRD),NULL,NULL,wtpct,total_carbonate,mineralogy_composition,FALSE,TRUE,NULL,Total_Carbonate (wt%),NULL,294,NULL
+Total_Clay,Total clay,Total clay (XRD),NULL,NULL,wtpct,total_clay,mineralogy_composition,FALSE,TRUE,NULL,Total_Clay (wt%),NULL,295,NULL
+Total_NonClay,Total non clay,Total Non Clay (XRD),NULL,NULL,wtpct,total_nonclay,mineralogy_composition,FALSE,TRUE,NULL,Total_NonClay (wt%),NULL,296,NULL
+Tpeak,Tpeak,Rock-Eval Pyrolysis Tpeak,NULL,NULL,degC,tpeak,carbon,FALSE,FALSE,NULL,Tpeak (degC),NULL,NULL,NULL
+TpkS2,Tpeak S2,Rock eval,NULL,NULL,degC,NULL,carbon,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Tridymite,Tridymite,Tridymite,NULL,NULL,wtpct,tridymite,mineralogy_composition,FALSE,FALSE,NULL,Tridymite (wt%),NULL,NULL,NULL
+U,Uranium,Uranium,92,238.029,ppm,u,element,TRUE,TRUE,NULL,U (ppm),NULL,216,NULL
+U-auth,U from authigenic fraction,Authigenic uranium after light leach on shale,NULL,NULL,ppm,u_auth,authigenic_proxy,FALSE,FALSE,NULL,U-auth (ppm),NULL,NULL,NULL
+U-carb,U from the carbonate fraction,"Uranium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,u_carb,carbonate_proxy,FALSE,TRUE,NULL,U-carb (ppm),NULL,93,NULL
+U234_U238,234U/238U,ratio of uranium isotopes U234 to U238,NULL,NULL,none,u234_u238,metal_isotope,FALSE,FALSE,NULL,U234/U238,NULL,NULL,NULL
+U238_Pb204,238U/204Pb,ratio of uranium isotope U238 to lead isotope Pb204,NULL,NULL,none,u238_pb204,metal_isotope,FALSE,FALSE,NULL,U238/Pb204,NULL,NULL,NULL
+Uub,Ununbium,Ununbium,112,277,ppm,uub,element,FALSE,FALSE,NULL,Uub (ppm),NULL,NULL,NULL
+Uug,Ununquadium,Ununquadium,114,NULL,N/A,uug,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Uuh,Ununhexium,Ununhexium,116,NULL,N/A,uuh,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Uuo,Ununoctium,Ununoctium,118,NULL,N/A,uuo,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Uup,Ununpentium,Ununpentium,115,NULL,ppm,uup,element,FALSE,FALSE,NULL,Uup (ppm),NULL,NULL,NULL
+Uus,Ununseptium,Ununseptium,117,NULL,N/A,uus,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Uut,Ununtrium,Ununtrium,113,NULL,N/A,uut,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+V,Vanadium,Vanadium,23,50.942,ppm,v,element,TRUE,TRUE,NULL,V (ppm),NULL,217,NULL
+V-auth,Authigenic vanadium,"Authigenic vanadium, from partial digest",NULL,NULL,ppm,v_auth,element,FALSE,TRUE,NULL,V-auth (ppm),NULL,218,NULL
+V-carb,V from the carbonate fraction,"Vanadium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,v_carb,carbonate_proxy,FALSE,TRUE,NULL,V-carb (ppm),NULL,94,NULL
+V2O5,Vanadium pentoxide,Vanadium pentoxide,NULL,181.88,ppm,v,element,TRUE,TRUE,0.560166,V (ppm),NULL,219,NULL
+VR,Vitrinite reflectance,Vitrinite reflectance,NULL,NULL,pct,v_reflect,carbon,FALSE,FALSE,NULL,VR (%),NULL,NULL,NULL
+W,Tungsten,Tungsten,74,183.85,ppm,w,element,TRUE,TRUE,NULL,W (ppm),NULL,220,NULL
+W-carb,W from the carbonate fraction,"Tungsten extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,w_carb,carbonate_proxy,FALSE,TRUE,NULL,W-carb (ppm),NULL,95,NULL
+Woodhouseite,Woodhouseite,Woodhouseite,NULL,NULL,wtpct,woodhouseite,mineralogy_composition,FALSE,FALSE,NULL,Woodhouseite (wt%),NULL,NULL,NULL
+Xe,Xenon,Xenon,54,131.29,N/A,xe,element,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+Y,Yttrium,Yttrium,39,88.906,ppm,y,element,TRUE,TRUE,NULL,Y (ppm),NULL,221,NULL
+Y-auth,Y from authigenic fraction,Authigenic yttrium after light leach on shale,NULL,NULL,ppm,y_auth,authigenic_proxy,FALSE,FALSE,NULL,Y-auth (ppm),NULL,NULL,NULL
+Y-carb,Y from the carbonate fraction,"Yttrium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,y_carb,carbonate_proxy,FALSE,TRUE,NULL,Y-carb (ppm),NULL,96,NULL
+Yb,Ytterbium,Ytterbium,70,173.04,ppm,yb,element,TRUE,TRUE,NULL,Yb (ppm),NULL,222,NULL
+Yb-auth,Yb from authigenic fraction,Authigenic ytterbium after light leach on shale,NULL,NULL,ppm,yb_auth,authigenic_proxy,FALSE,FALSE,NULL,Yb-auth (ppm),NULL,NULL,NULL
+Yb-carb,Yb from the carbonate fraction,"Ytterbium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,yb_carb,carbonate_proxy,FALSE,TRUE,NULL,Yb-carb (ppm),NULL,97,NULL
+Zn,Zinc,Zinc,30,65.39,ppm,zn,element,TRUE,TRUE,NULL,Zn (ppm),NULL,223,NULL
+Zn-auth,Zn from authigenic fraction,Authigenic zinc after light leach on shale,NULL,NULL,ppm,zn_auth,authigenic_proxy,FALSE,FALSE,NULL,Zn-auth (ppm),NULL,NULL,NULL
+Zn-carb,Zn from the carbonate fraction,"Zinc extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,zn_carb,carbonate_proxy,FALSE,TRUE,NULL,Zn-carb (ppm),NULL,98,NULL
+Zr,Zirconium,Zirconium,40,91.224,ppm,zr,element,TRUE,TRUE,NULL,Zr (ppm),NULL,224,NULL
+Zr-auth,Zr from authigenic fraction,Authigenic zirconium after light leach on shale,NULL,NULL,ppm,zr_auth,authigenic_proxy,FALSE,FALSE,NULL,Zr-auth (ppm),NULL,NULL,NULL
+Zr-carb,Zr from the carbonate fraction,"Zirconium extracted from the carbonate fraction, after acidification in a weak acid",NULL,NULL,ppm,zr_carb,carbonate_proxy,FALSE,TRUE,NULL,Zr-carb (ppm),NULL,99,NULL
+b-carotane,beta-carotane,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+e205Tl,𝜀205Tl,"e205Tl = 10,000 x (205Tl/203Tlsample-205Tl/203TlSRM 997) / (205Tl/203TlSRM 997)",NULL,NULL,none,e_205tl,metal_isotope,FALSE,TRUE,NULL,𝜀205Tl,NULL,146,NULL
+e205Tl-auth,𝜀205Tl-auth,"ε205Tl = 205/203Tlsample/205/203TlNIST−997−1×10,000 for authigenic fraction",NULL,NULL,none,e_205tl_auth,metal_isotope,FALSE,TRUE,NULL,𝜀205Tl-auth,NULL,147,NULL
+e205Tl-det,𝜀205Tl-det,"ε205Tl = 205/203Tlsample/205/203TlNIST−997−1×10,000 for detrital fraction",NULL,NULL,none,e_205tl_det,metal_isotope,FALSE,TRUE,NULL,𝜀205Tl-det,NULL,148,NULL
+eNd(0),eNd(0),present difference of the 143Nd/144Nd ratio in the sample from that in the CHUR (chondritic uniform reservoir),NULL,NULL,none,e_nd_0,metal_isotope,FALSE,TRUE,NULL,𝜀Nd(0),NULL,149,NULL
+eNd(t),eNd(t),difference of the 143Nd/144Nd ratio in the sample from that in the CHUR (chondritic uniform reservoir),NULL,NULL,none,e_nd_t,metal_isotope,FALSE,TRUE,NULL,𝜀Nd(t),NULL,150,NULL
+eNdi,𝜀Ndi,Initial εNd,NULL,NULL,none,e_nd_i,metal_isotope,FALSE,TRUE,NULL,𝜀Ndi,NULL,151,NULL
+hop/ster,hopane/sterane,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+iC25/nC22,regular isoprenoid 25/n-alkane22,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL
+iC30/nC26,NULL,Biomarker,NULL,NULL,NULL,NULL,biomarker,FALSE,FALSE,NULL,NULL,NULL,NULL,NULL

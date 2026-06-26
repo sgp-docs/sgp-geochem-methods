@@ -1,0 +1,264 @@
+exp_method_id,exp_method_code,exp_method_translation,exp_method_desc,reference_id,exp_category
+201,1000deg,Heated to 1000degC,Heated to 1000degC,NULL,LOI
+152,1050deg,Heated to 1050degC,Heated to 1050degC,NULL,LOI
+200,500deg,Heated to 500degC,Heated to 500degC,NULL,carbon
+151,550deg,Heated to 550degC,Heated to 550degC,NULL,LOI
+113,900deg,Heated to 900degC,Heated to 900degC,NULL,LOI
+189,950deg,Heated to 950degC,Heated to 950degC,NULL,LOI
+15,AR,Aqua regia (3:1 HCl:HNO3),Aqua regia digest (3:1 HCl:HNO3).,NULL,element
+364,AR_AE,"Aqua regia digest, anion exchange chromatography (AGMP1)","Aqua regia digest, anion exchange chromatography with AGMP1 resin. See Hou et al. 2017 10.1016/j.precamres.2017.06.019 and refs therein",NULL,NULL
+365,AR_BPHA,"Aqua regia, BHPA resin chromatography","Dissolved in aqua regia at 120degC for 12h, purification using N-benzoyl-N-phenyl hydroxylamine (BPHA) chromatographic resin",NULL,NULL
+330,AR_IE(TRUresin),"Aqua regia, ion exchange chromatography (TRU resin)","Aqua regia digest, ion exchange chromatography with Eichrom TRU resin. See Dang et al. 2016, 2018.",NULL,metal_isotope
+123,AR_part,Partial digestion with aqua regia (CMIBS method),Partial digestion with aqua regia (originally a CMIBS method),NULL,element
+270,ARrev_AE,"Reverse aqua regia digest, anion exchange chromatography (AG1X8) (see Pearce et al. 2009)","Digest with reverse aqua regia (1:3 HCl:HNO3), followed by anion exchange chromatography with AG 1-X8 resin. See Pearce et al. 2009.",NULL,metal_isotope
+157,AVS/CRS,AVS and CRS sequential extraction,NULL,NULL,iron_sulfur
+367,AVS_Acid,"AVS by purge and trap, no details provided","AVS by purge and trap, no details provided",NULL,NULL
+154,AVS_HCl(6N),6N HCl distillation for acid volatile sulfur,"6M HCl distillation to extract acid volatile sulfur such as pyrrhotite, sphalerite, mackinawite, greigite",NULL,iron_sulfur
+18,AVS_HCl(6N/hot)_SnCl2,Hot 6N HCl acid-volatile sulfur extraction (Rice et al. 1993),Hot 6N HCl and SnCl2 method of Rice et al. (1993),22,iron_sulfur
+202,AcOH,Acetic acid,Acetic acid (CH3COOH) digestion,NULL,element
+250,AcOH(0.1N)_AIC,"0.1N acetic acid, automated ion chromatography","0.1N acetic acid (CH3COOH), followed by automated ion chromatography",NULL,metal_isotope
+246,AcOH(0.5M)_AE/IE,"0.5N acetic acid, anion exchange (AG1X8 resin) ion exchange chromatography (UTEVA resin)","0.5N acetic acid, oxidation steps, followed by anion exchange with AG1X8 Resin, ion exchange chromatography with UTEVA resin for uranium isotopes.",NULL,metal_isotope
+178,AcOH(0.85N),0.85N acetic acid ,0.85N acetic acid/5% acetic acid. See e.g. Rongemaille et al. (2011),NULL,element
+345,AcOH(1N),1N acetic acid,NULL,NULL,NULL
+316,AcOH(dil)_AIC,"Dilute acetic acid (no strength specified),  automated ion chromatography","Dilute acetic acid (CH3COOH), followed by automated ion chromatography",NULL,metal_isotope
+64,Acid,"Acidification/acid treatment, details not provided","Acidification/acid digestion, no details provided (likely HCl in many cases)",NULL,element
+244,Acid_CB,Acidified before Dumas combustion technique,Acidified before Dumas combustion technique,NULL,carbon
+19,CB,Combustion/ashing,Combustion/ashing,NULL,NULL
+278,CB_AcOH_MA2_AR/HCl_AE/2CE,"Ash, AcOH decarb, HF/HNO3, aqua regia, HCl, chrom. (anion AG1X8,  cation TRU, cation LN)","Combustion/ashed, leached in acetic acid to remove carbonates, spiked with an enriched 150Nd-149Sm tracer, digested to dissolve silicates: HF+HNO3, AR, HCl. three-stage chromatography: AE for iron, CE for REE, Sm and Nd Eichrom LN Resin",NULL,metal_isotope
+140,CB_HCl(12N/48h/hot),"Combustion/ashing, hot 12N HCl for 48h (mod. of Aller et al. 1986)","Combustion/ashed, cooled, hot 12M HCl for 48hrs. Modification of Aller et al. 1986 method - digest in stronger acid at higher temperature, see e.g. LeRoy and Gill 2019",10,iron_sulfur
+21,CB_HCl(12N/hot),"Combustion/ashing, hot 12M HCl for an unknown time (mod. of Aller et al. 1986)","Combustion/ashed, cooled, hot 12M HCl, no time provided. Modification of Aller et al. 1986 method.",10,iron_sulfur
+46,CB_HCl(1N),"Combustion/ashing, 1N HCl","Combustion/ashed, 1N HCl digest",NULL,element
+32,CB_HCl(6N/24h/hot),"Combustion/ashing, hot 6M HCl for 24h (mod. of Aller et al. 1986)","Combustion/ashed, cooled, hot 6M HCl for 24hrs. Some variability in temperature and time of ashing. Aller et al. 1986 original method: leaching 1-2 g of ashed sediment (450°C) for 24 h in near-boiling 6 N HCI.",10,iron_sulfur
+8,CB_HCl(6N/48h/hot),"Combustion/ashing, hot 6M HCl for 48h (mod. of Aller et al. 1986)","Combustion/ashed, cooled, near-boiling 6M HCl for 48hrs. Modification of Aller et al. 1986 - 48hr in conc. HCl instead of 24hr. Variability in temperature and time of ashing. Assumed 6N in at least one case.",10,iron_sulfur
+218,CB_HCl(conc/boil)_AE,"Combustion/ashing, concentrated boiling HCl (3 times), anion exchange chromatography (AG1-X8 resin)","Combustion/ashed, leached three times in boiling concentrated HCl, double-spike, redissolved in HCl + H2O2. Anion exchange AG1-X8 resin. See Le Boudec et al. 2014 and refs therein.",NULL,metal_isotope
+132,CB_MA2,"Combustion/ashing, HNO3/HF",Combustion/ashed followed by HNO3/HF digestion,NULL,element
+261,CB_MA2_3CE(CeDop),"Combustion/ashing, HF/HNO3, AR, HCl, cation exchange chromatography with ce-doping","Combustion/ashed (for organic-rich samples), HF/HNO3, treated with AR and HCl to remove fluorides, cation exchange (3 columns, first run twice), Ce-doping method. Standard method see e.g. Nan et al., 2015.",NULL,metal_isotope
+260,CB_MA2_3CE(DS),"Combustion/ashing, HF/HNO3, AR, HCl, cation exchange chromatography with double-spike","Combustion/ashed (for organic-rich samples), HF/HNO3, treated with AR an HCl to remove fluorides, cation exchange (3 columns, first run twice), double spike method. Standard method see e.g. Nan et al., 2015.",NULL,metal_isotope
+229,CB_MA2_AE,"Combustion/ashing, HNO3/HF, anion exchange (AG1X8 or AGMP1 resin), sample-standard bracketing","Combustion/ashing, HNO3/HF, ion exchange chromatography with AGMP-1 resin, sample-standard bracketing.",NULL,metal_isotope
+228,CB_MA2_AE(DS),"Combustion/ashing, HF/HNO3, anion exchange chromatography Fe double-spike (Swanner et al. 2015)","Combustion/ashed followed by HF/HNO3, taken up in HCl, anion exchange chromatography with Fe-double spike. Procedure as in Swanner et al. 2015.",NULL,metal_isotope
+271,CB_MA2_AE/CE,"Combustion/ashing, HNO3/HF, anion exchange (AG1X8 resin), cation exchange (AG50W-X8 resin)","Combustion/ashed followed by HF/HNO3 digestion, followed by two-step anion exchange AG1-X8 resin and cation exchange AG50W-X8 resin. See e.g. Barling et al. 2001, Duan et al. 2010.",NULL,metal_isotope
+291,CB_MA2_AR,"Combustion/ashing, HNO3/HF, aqua regia","Combustion/ashed, followed by HNO3/HF digest, followed by aqua regia digest",NULL,element
+239,CB_MA2_AR_HCl,"Combustion/ashing, HNO3/HF, AR, HCl","Combustion/ashed followed by HF/HNO3 digest, followed by aqua regia digest, followed by HCl digest",NULL,element
+159,CB_MA2_H3BO3,"Combustion/ashing, HF/HNO3, H3BO3 to neutralize","Combustion/ashed prior to disgestion with HF and HNO3, neutralization with boric acid to retain Si",NULL,element
+281,CB_MA2_HCl/HNO3_2CE,"Combustion/ashing, HF/HNO3, HCl/HNO3, cation ex. chrom x 2 (AG50W for REE, LN resin for Sm Nd)","Combustion/ashed, dissolved in HF-HNO3, dissolved in HCl and HNO3. REE by cation exchange, Sm and Nd with Eichrom LN Resin",NULL,metal_isotope
+279,CB_MA2_HCl/HNO3_AE/2CE,"Combustion/ashing, HF/HNO3, HCl/HNO3, 3step chrom (anion AG1X8,  cation TRU, cation LN)","Dissolved in HF-HNO3, dissolved in HCl and HNO3. Nd and Sm extracted using a three stage-chemistry procedure: AE for iron with AG1X8 resin, REE with Eichrom TRU Resin, Sm and Nd with Eichrom LN Resin",NULL,metal_isotope
+150,CB_MA3,"Combustion/ashing, HNO3/HCl/HF","Combustion/ashed followed by three acid digestion with nitric, hydrochloric, hydrofluoric acid",NULL,element
+266,CB_MA3_2AE/CE,"Combustion/ashing, HNO3/HCl/HF, anion (x2) and cation exchange chromatography","Combustion/ashed, digest in HNO3/HF and HNO3/HCl, double-spike, anion exchange AG1-X8 resin, anion exchange microcolumns AG1-X8 resin, cation exchange AG50W-X8 resin",NULL,metal_isotope
+355,CB_MA3_2IE(TRU/UTEVA),"Combustion/ashing, HNO3/HF, HCl, two-step TRU and UTEVA chromatography","Combustion/ashing, HNO3/HF, HCl, two-step TRU and UTEVA column chemistry exchange chromatography (see Anderson et al. 2015)",NULL,metal_isotope
+224,CB_MA3_AE,"Combustion/ashing, HNO3/HCl/HF, anion exchange (AG1X8 resin), sample-standard bracketing","Combustion/ashing, HF/HNO3/HCl, anion exchange chromatography with AG1X8 resin. Procedure as in Arnold et al. 2004.",515,metal_isotope
+280,CB_MA3_AE/2CE,"Combustion/ashing, HF/HNO3, aqua regia, HCl, 3step chrom. (anion AG1X8, cation TRU, cation LN)","Combustion/ashed, digested to dissolve silicates: HF+HNO3, AR, HCl. three-stage chromatography: AE for iron, CE for REE, Sm and Nd Eichrom LN Resin",NULL,metal_isotope
+272,CB_MA3_AE/CE,"Combustion/ashing, HNO3/HCl/HF, anion exchange (most AG1X8 resin), cation exchange (AG50W-X8 resin)","Combustion/ashed followed by HF/HNO3/HCl digestion, followed by two-step anion exchange (AG1-X8 resin most common, GPM-1M for Cheng et al. papers) and cation exchange AG50W-X8 resin. See e.g. Barling et al. 2001, Duan et al. 2010.",NULL,metal_isotope
+317,CB_MA3_AR,"Combustion/ashing, HNO3/HCl/HF, AR","Combustion/ashed followed by three acid digestion with nitric, hydrochloric, hydrofluoric acid, followed by aqua regia",NULL,element
+226,CB_MA3_AR_AE,"Combustion/ashing, HNO3/HCl/HF, aqua regia, anion exchange (AG1X4 resin), sample-standard bracketing","Combustion/ashing, HF/HNO3/HCl, followed by second digest in aqua regia, followed by ion exchange chromatography with AG1 X4 resin, using standard sample bracketing. See e.g. Arnold et al. 2004.",NULL,metal_isotope
+332,CB_MA3_IE,"Combustion/ashing, HNO3/HCl/HF digest, ion exchange chromatography (UTEVA resin)","Combustion/ashed followed by three acid digestion with nitric, hydrochloric, hydrofluoric acid, followed by ion exchange chromatography using UTEVA resin for uranium isotopes. See eg. Weyer et al. 2008",NULL,metal_isotope
+212,CB_MA3b,"Combustion/ashing, HF/HNO3/HClO4","Combustion/ashed followed by three-acid digest with hydroflouric, nitric and perchloric acid",NULL,element
+245,CB_MA3b_H3BO3,"Combustion/ashing, HNO3/HF/HClO4, H3BO3","Combustion/ashed followed by HF/HNO3/HClO4 digestion, followed by H3BO3",NULL,element
+356,CB_MA3b_H3BO3_AE,"Combustion/ashing, HNO3/HCl/HF, anion exchange (AG1X8 resin)","Combustion/ashed followed by HF/HNO3/HClO4/H3BO3 digestion, anion exchange chromatography (AG1-X8 resin)",NULL,NULL
+353,CB_MA3d_2IE,"Combustion/ashing, HNO3/HF, aqua regia, ion exchange chromatography (x2)(UTEVA resin)","Combustion/ashed, followed by HNO3/HF digest, followed by aqua regia digest, followed by ion exchange chromatography (twice) with UTEVA resin for uranium isotopes. See e.g. Weyer et al. 2008.",NULL,NULL
+331,CB_MA3d_IE,"Combustion/ashing, HNO3/HF, aqua regia, ion exchange chromatography (UTEVA resin)","Combustion/ashed, followed by HNO3/HF digest, followed by aqua regia digest, followed by ion exchange chromatography with UTEVA resin for uranium isotopes. See e.g. Weyer et al. 2008.",NULL,metal_isotope
+137,CB_MA4,"Combustion/ashing, HCl/HF/HClO4/HNO3",Combustion/ashed followed by HCl/HF/HClO4/HNO3 digestion,NULL,element
+233,CB_MA4_AE,"Combustion/ashing, HCl/HF, HClO4/HNO3, anion exchange (AGMP1 resin), sample-standard bracketing","Combustion/ashed, HCl/HF/HClO4/HNO3, ion exchange chromatography with AGMP1 and standard sample bracketing.",NULL,metal_isotope
+232,CB_MA4seq,"Combustion/ashing, seq acid digest HF, AR, ARrev, HNO3 (Kunzmann et al. 2015, Maloney et al. 2024)","Combustion/ashed, sequential acid digest with HF followed by AR, followed by reverse Aqua regia, followed by HNO3. Modified protocol from Kunzmann et al. (2015), see Maloney et al. 2024.",NULL,element
+309,CB_MA5,"Combustion/ashing, HNO3/HClO4/HF/H3BO3/HCl","Combustion/ashed, HNO3/HClO4/HF/H3BO3/HCl",NULL,element
+225,CB_SeqPy_AE,"Combustion/ashing, seq extract py w/ HNO3, anion exchange (AG1X8 resin), sample-standard bracketing","Ashed, extraction of Fe-py using 16 M HNO3 (after extraction of oxides/clay via HCl, aluminosilicate via HF), anion exchange chromatography with AG1X8 resin, Cu elemental spike, sample-standard bracketing. Procedure as in Arnold et al. 2004.",NULL,metal_isotope
+176,CF,Carbonate fusion,Carbonate fusion. See e.g. Intertek method FC7/SIE,NULL,NULL
+72,CH2Cl2_HF/BF3_CuO,"CH2Cl2, HF/BF3, cupric oxide, 800degC for 12hrs","Bitumen extracted with methylene chloride, demineralized with HF-BF3, oxidised with cupric oxide, heated to 800degC for 12hrs",NULL,carbon
+13,CRS,Chromous chloride reduction (Canfield et al. 1986),"Heated with 6M HCl and chromium chloride under anoxic conditions, sulfur trapped by silver nitrate, precipitated as silver sulfide.",7,iron_sulfur
+82,Carius(CrVI-H2S04)_SE/MD/AE,"Carius tube digest CrVI-H2SO4, solvent extract./microdist./anion ex. chrom. (Selby and Creaser 2003)","Re-Os in marine organic-rich rocks: digest in CrVI-H2SO4 carius tube, Re + Os purified using solvent extraction (CHCl3 or CCl4), micro-distillation and anion chromatography. Selby and Creaser 2003 and others.",NULL,metal_isotope
+165,Carius(HCl/HNO3)_SE/MD/AE,"Carius tube digest HCl/HNO3, solvent extract./microdist/anion exchange chromatography","Carius tube digestion with HCl and HNO3. Os extracted from acid phase into CCl4, back-extracted into concentrated HBr. See Puchtel et al. 2014",NULL,NULL
+360,ConvexA,Multi-step NaOH∕Na2SO4,"KCl∕EtOH, NaOH∕Na2SO4 (incubated for 1 h at 25 degC), NaOH∕Na2SO4 (incubated for 2 h at 99 degC), Na2SO4  (see Oxmann et al. 2008 and Beil et al. 2020).
+",NULL,NULL
+361,ConvexB,Multi-step H2SO4 and Na2SO4,"H2SO4 (incubated for 2 h at 99 degC), twice Na2SO4. Modified CONVEX P extraction (see Oxmann et al. 2008 and Beil et al. 2020). Sequential after ConvexA
+",NULL,NULL
+263,DSP,Dual stage protocol (see Huang et al. 2015),Modified combustion-trapping dual-stage protocol of Huang et al. 2015 for mercury isotopes,573,metal_isotope
+298,Decarb,"Decarbonated (no details provided, likely HCl or AcOH)","Decarbonisation, no details provided (likely hydrochloric or acetic acid)",NULL,NULL
+131,Decarb/CBST,Combustion after acidification,NOT USED Acidification followed by combustion prior to EA-IRMS,NULL,NULL
+126,Digest,Unspecified digestion (CMIBS method),Unspecified digestion (originally a CMIBS method),NULL,NULL
+11,Dith(1h),"Sodium dithionite extraction, 1hr","Citrate-buffered (pH 4.8) sodium dithionite solution, 1hr.",6,iron_sulfur
+12,Dith(2h),"Sodium dithionite extraction, 2hr","Citrate-buffered (pH 4.8) sodium dithionite solution, 2hr.",9,iron_sulfur
+119,FA,Fire assay chemical separation,Fire assay chemical separation.,NULL,NULL
+98,Fused beads,Fused beads,"Fused beads, no details provided (most likely lithium borate and/or metaborate fused glass beads for XRF)",NULL,NULL
+110,Fusion digestion,Fusion digestion (CMIBS method),"Fusion digestion, no details provided (originally CMIBS method)",NULL,NULL
+94,H2SO3,Sulfurous acid,Acidification with sulfurous acid,NULL,NULL
+62,H3PO4,Phosphoric acid,Acidification with phosphoric acid,NULL,NULL
+249,HCl(0.1N)_2CE,"0.1N HCl, two-stage cation exchange chromatography  (AG50W-X12 resin)","Digest with 0.1N HCl, two stage cation exchange chromatography AG 50W-X12 resin (dilute HCl as an eluent). See Pogge von Strandmann 2011, James and Palmer 2000. ",NULL,metal_isotope
+216,HCl(0.1NSeq),"0.1N HCl in 4hr, 2hr, 10min sequential steps","Digestion using 0.1 M HCl in three sequential steps, with durations of 4 h, 2 h, and 10 min",NULL,NULL
+333,HCl(0.1NSeq)_2IE,"0.1N HCl in 4hr, 2hr, 10min sequential steps, two-step ion exchange chromatography (UTEVA resin)","Digest 0.1N HCl  in 4hr, 2hr, 10min seq. steps, two stage ion exchange chromatography with UTEVA resin for uranium isotopes. See e.g. Weyer et al. 2008.",NULL,NULL
+217,HCl(0.25N)_2IE,"0.25N HCl, two-step ion exchange chromatography (UTEVA resin)","Digest 0.25N HCl two step/stage ion exchange chromatography with UTEVA resin for uranium isotopes. See e.g. Lau et al. 2016, Weyer et al. 2008.",NULL,NULL
+251,HCl(0.5N),0.5N hydrochloric acid,Hydrochloric acid 0.5N,NULL,NULL
+295,HCl(0.5N)_2AE/CE,"0.5N HCl, anion (x2) and cation exchange chromatography","0.5N HCl digest, double-spike, anion exchange AG1-X8, anion exchange AG1-X8, cation exchange AG50W-X8. Oxidization prior to 2nd anion exchange with ammonium persulfate ((NH4)2S2O8).",NULL,metal_isotope
+262,HCl(0.5N)_2CE,"0.5N HCl, two-step cation exchange chromatography (AGMP-50 resin)","Dissolved in 0.5N HCl, supernatant for gravity flow column cation exchange (two-step/two sets of columns), BioRad AG MP-50 resin, HCl and HNO3 as eluents",NULL,metal_isotope
+357,HCl(0.5N)_AE/CE,"0.5N HCl, anion and cation exchange chromatography","0.5N HCl digest, double-spike, Oxidization with ammonium persulfate ((NH4)2S2O8). Anion exchange AG1-X8, cation exchange AG50W-X8. ",NULL,NULL
+325,HCl(0.5N)_CE,"0.5N HCl, cation exchange chromatography (AGMP-50 resin)","Dissolved in 0.5N HCl, mixed with 43Ca-42Ca double tracer, cation exchange column BioRad AG MP-50 resin",NULL,metal_isotope
+256,HCl(0.6N)_CE,"0.6N HCl, cation exchange chromatography (AG 50W X12 resin)","0.6N HCl, cation exchange chromatography with AG 50W X12 resin.",NULL,metal_isotope
+6,HCl(12N/1min/boil),Boiling 12N HCl for 1min (Berner 1970),"Boiled for 1min in concentrated HCl, method of Berner 1970.",5,NULL
+287,HCl(1N),1N hydrochloric acid,Digest with 1N hydrochloric acid,NULL,NULL
+240,HCl(1N)_2CE,"1N HCl, two-step cation ion exchange chromatography (AGMP-50 resin)","Dissolved in 1N HCl, supernatant for gravity flow column cation exchange (two-step/two sets of columns), BioRad AG MP-50 resin, HCl and HNO3 as eluents",NULL,metal_isotope
+335,HCl(1N)_2IE,"1N HCl, two-step ion exchange chromatography (UTEVA resin)","Digest 1N HCl, two step ion exchange chromatography, followed by ion exchange chromatography using UTEVA resin.",NULL,NULL
+195,HCl(1N)_AIC,"1N HCl, automated ion chromatography","Dissolved in 1N HCl, automated ion chromatography",NULL,metal_isotope
+328,HCl(1N)_CE,"1N HCl, cation exchange chromatography (AG 50W X12 resin)","1N HCl, cation exchange chromatography with AG 50W X12 resin",NULL,metal_isotope
+334,HCl(1N)_IE,"1N HCl, ion exchange chromatography (UTEVA resin)","Digest 1N HCl, ion exchange chromatography, followed by ion exchange chromatography using UTEVA resin. See e.g. Weyer et al. 2008",NULL,metal_isotope
+7,HCl(24h/cold),Cold HCl (1M or 10%) for 24hr (Raiswell et al. 1994),"Cold HCl, 24hr. Method of Raiswell et al. 1994: 1 M HC1 24 hr. Most papers report as 10% HCl.",8,NULL
+311,HCl(2N),2N hydrochloric acid,HCl(2N),NULL,NULL
+264,HCl(2N)_AE/CE,"2N HCl, anion and cation exchange chromatography","Double-spike, digest in 2M HCl (supernatant taken up in AR and dried again), ammonium persulfate ((NH4)2S2O8), anion exchange AG1-X8 resin, cation exchange AG50W-X8 resin",NULL,metal_isotope
+254,HCl(2N)_CE,"2N HCl, cation exchange chromatography (Sr Spec resin)","2N HCl, with Eichrom Sr Spec resin",NULL,metal_isotope
+344,HCl(3N),3N hydrochloric acid,3N HCl digest,NULL,NULL
+302,HCl(6N),6N hydrochloric acid,Digest 6N HCl,NULL,NULL
+257,HCl(6N)_AE/CE,"6N HCl, anion exchange (AG1X8 resin), cation exchange (AG50W-X8 resin)","Digest in 6 N (or ""concentrated"") HCl, anion exchange Biorad AG1-X8 resin, cation exchange AG 50 W-X8 resin. See e.g. Voegelin et al. 2009.",NULL,metal_isotope
+288,HCl(6N)_BPHA,"6N HCl, BHPA resin chromatography (see Li et al. 2014)","Digested in 6M HCl at room temperature for >24 h, separation/purification using N-benzoyl-N-phenyl-hydroxylamine (BPHA) chromatographic resin. Method of Li et al. 2014.",807,metal_isotopes
+269,HCl(6N)_CE,"6N HCl, cation exchange chromatography (AGMP-50 resin)","Dissolved in 6N HCl, supernatant for traditional gravity flow cation exchange columns, BioRad AG MP-50 resin",NULL,metal_isotope
+321,HCl(6N/24h/hot),Hot 6N HCl for 24h,6N HCl for 24h at near-boiling temperature,NULL,NULL
+208,HCl(conc),Concentrated hydrochloric acid (strength not specified),"Concentrated HCl, no details provided",NULL,NULL
+10,HCl(decarb),Decarbonated with HCl,"Treated with HCl to remove carbonate. A variety of different concentrations, temperatures and times are used.",NULL,NULL
+170,HCl(decarb)_HF/BF3,"Decarb. with HCl, HF and BF3 for kerogen extraction (see Robl and Davis 1993, Stüecken et al. 2015)","Decarbonated in HCl, kerogen extraction with hydroflouric acid, followed by boric acid (see Robl and Davis 1993, Stüecken et al. 2015)",806,NULL
+129,HCl(decarb)_MA2,"Decarbonated with HCl, HNO3/HF",Digestion by HNO3/HF on samples which were previously subject to decarbonation,NULL,NULL
+350,HCl(decarb)_MA2b,"Decarbonated with HCl, HCl/HF",Digestion by HCl/HF on samples which were previously subject to decarbonation,NULL,NULL
+299,HCl(decarb)_RandomMount,"Decarbonated with HCl, random mount","Treated with HCl to remove carbonate, preparation for XRD as an unoriented/random mount.",NULL,NULL
+79,HClO4,Perchloric acid,Perchloric acid,NULL,NULL
+108,HF,Hydrofluoric acid,Digestion with hydrofluoric acid (originally a CMIBS method),NULL,NULL
+134,HNO3,Nitric acid,Digestion with nitric acid,NULL,NULL
+306,HNO3(0.4M),0.4M nitric acid,Nitric acid 0.4M,NULL,NULL
+347,HNO3(0.5M),0.5M nitric acid,Nitric acid 0.5M,NULL,NULL
+351,HNO3(0.5M)_(3AE)_AE/CE,"0.5M HNO3, (anion exchange for Cd), anion and cation exchange chromatography","0.5M HNO3, three step anion exchange chromatography AG-1X8 resin for Cd isotopes, followed by anion and cation exchange for Cr.",NULL,NULL
+348,HNO3(0.5M)_3AE,"0.5M HNO3, three step anion exchange chromatography (AG-1X8 resin)","0.5M HNO3, three step anion exchange chromatography AG-1X8 resin",NULL,metal_isotope
+349,HNO3(0.5M)_CE,"0.5M HNO3, cation exchange chromatography (Sr Spec resin)","Redissolved in 3M HNO3 after 0.5M HNO3 digest, cation exchange chromatogrpaphy with SrSpec resin",NULL,NULL
+65,HNO3(10%)_CB_HNO3(10%),"10% HNO3, combustion/ashing, second leach in 10% HNO3","Leached with 10% HNO3, dried and ashed, leached again with 10% HNO3 to extract REE, dried, reported with respect to TOC content",NULL,NULL
+296,HNO3(1M),1M nitric acid,HNO3 1M ,NULL,metal_isotope
+222,HNO3(1M)_2IE,"1M HNO3, 2 x ion exchange chromatography (UTEVA)","1M HNO3 and concentrated HNO3, then treated with reverse aqua regia, hydrogen peroxide, and concentrated nitric acid. Uranium separated by ion exchange chromatography using UTEVA resin.",NULL,metal_isotope
+338,HNO3(1M)_IE,"1M HNO3, ion exchange chromatography (UTEVA resin)","1M HNO3, treated using reverse aqua regia, H2O2, and concentrated HNO3, ion exchange chromatography with UTEVA resin.",NULL,metal_isotope
+337,HNO3(1M)_IE/AIC,"1M HNO3, ion exchange chromatography (UTEVA) + automated ion chromatography (DGA resin)","HNO3 1M, ion exchange chromatography with UTEVA resin, automated ion chromatography (ESI PrepFast-MC system) Eichrom DGA resin.",NULL,metal_isotope
+142,HNO3(2%),2% nitric acid,Digestion via pre-leach and partial leach in 2% HNO3,NULL,carbonate_proxy
+305,HNO3(2M),2M nitric acid,Nitric acid 2N,NULL,NULL
+282,HNO3(2M)_2AE,"2M HNO3, two-column anion exchange chromatography (AG1X8 resin) ","HNO3 2M at 130deg for 12hrs, acid/heat treatments (variable: aqua regia, HCl and/or HNO3, +/- H2O2), 1 M HCl with brominated H2O, two-column anion exchange AG1-X8 resin. See Owens et al. 2017",NULL,metal_isotope
+286,HNO3(2M)_AE,"2M HNO3, one-column anion exchange chromatography (AG1X8 resin) ","HNO3 2M at 130deg for 12hrs, acid treatments (variable: aqua regia, HCl and/or HNO3 +/- H2O2), 1 M HCl with brominated H2O, one micro-column procedure AG1-X8 resin. See Owens et al. 2017, Ostrander et al. 2017",NULL,metal_isotope
+275,HNO3(2M)_CE/3AE,"2M HNO3, cation (AG50WX12 resin) and 3x anion exchange chromatography (AG1X8 resin). WHOI method.","Partial digest in 2N HNO3, ion exchange chromatography four-column method (one cation exchange AG 50W-X12 resin, three anion exchange AG1-X8 resin), see analysis notes for details. Standard WHOI procedure based on e.g. Nielsen et al. 2011, 2016, 2019.",NULL,metal_isotope
+283,HNO3(2M)_MA2_2AE,"2M HNO3, HNO3/HF, two-column anion exchange chromatography (AG1X8 resin)","HNO3 2M at 130deg for 12hrs, acid treatments (variable: aqua regia, HCl and/or HNO3, +/- H2O2), digest of residue in HNO3/HF, 1 M HCl with brominated H2O, two column anion exchange AG1-X8 resin. See Owens et al. 2017",NULL,metal_isotope
+297,HNO3(3%),3% nitric acid,Nitric acid 3%,NULL,NULL
+363,HNO3(3%)_NH4OH/MeOH,"3% nitric acid, ammonium hydroxide–methanol solution","Carbonate digest in HNO₃ followed by dilution with an ammonium hydroxide–methanol matrix to stabilise iodine (I/Ca, I/[Ca+Mg] analyses)",NULL,NULL
+238,HNO3(3%)_TA,"3% nitric acid, tertiary amine solution","Carbonate digest in HNO3 followed by dilution and tertiary amine solution to stabilize iodine (I/Ca, I/[Ca+Mg] analyses)",NULL,NULL
+307,HNO3(5%),5% nitric acid,Nitric acid 5%,NULL,NULL
+274,HNO3(5%)_AE(HBr-HCl),"5% HNO3, converted with HBr, anion exchange chromatography","HNO3 digest, converted with HBr, anion exchange BioRad AG-1X8 resin. See Kamber and Gladu 2009 (assuming strong HCl version -  HBr-HCl in their terminology).",NULL,metal_isotope
+308,HNO3(7N),7N nitric acid,Nitric acid 7N,NULL,NULL
+112,HNO3(part),HNO3 partial digest (no strength specified),"Partial digestion with nitric acid, no strength specified",NULL,NULL
+122,KClO3(part),Partial digestion with potassium chlorate (CMIBS method),Partial digestion with potassium chlorate (originally a CMIBS method),NULL,NULL
+111,KNO3,Potassium nitrate (CMIBS method),Digestion with potassium nitrate (originally a CMIBS method),NULL,NULL
+116,LMF,Lithium metaborate (LiBO2) fusion,Lithium metaborate (LiBO2) fusion,NULL,NULL
+324,LMF_2AE/CE,"Lithium metaborate flux, anion (x2) and cation exchange chromatography","Lithium metaborate flux, double-spike, anion exchange AG1-X8, anion exchange microcolumns AG1-X8, cation exchange AG50W-X8. Ox. prior to 1st col. potassium peroxidisulfate (K2S2O8) OR prior to 2nd column with ammonium persulfate ((NH4)2S2O8)",NULL,metal_isotope
+186,LMF_HNO3(5%),"Lithium metaborate fusion, 5% HNO3 (see e.g. Bureau Veritas method 4A-4B)","Lithium metaborate (LiBO2) fusion, followed by dilute nitric (HNO3) acid digestion. See e.g. Bureau Veritas method 4A-4B.",NULL,NULL
+155,LMF_MA2c,"Lithium metaborate fusion, HF/HClO4 digest","Lithium metaborate (LiBO2) fusion, followed by hydroflouric (HF) and perchloric (HClO4) acid digestion.",NULL,NULL
+43,LTF,Lithium tetraborate (aka lithium borate) fusion,"Lithium tetraborate (Li2B4O7) fusion, aka lithium borate fusion.",NULL,NULL
+185,LTF_HNO3,"Lithium tetraborate fusion, HNO3","Lithium tetraborate (Li2B4O7) fusion, followed by nitric (HNO3) acid digestion, likely dilute (no strength mentioned)",NULL,NULL
+172,LTF_MA3b,"Lithium tetraborate fusion, HNO3/HF/HClO4 digest","Lithium tetraborate (Li2B4O7) fusion, followed by multi-acid digest. See e.g. fusion-dissolution method for ICP:MS at GeoAnalytical Lab WSU",NULL,NULL
+184,LTMF,Lithium tetraborate/metaborate fusion,Lithium tetraborate (Li2B4O7) and/or metaborate (LiBO2) fusion,NULL,NULL
+277,LTMF_CE,"Lithium tetraborate/metaborate fusion, cation exchange chromatography (LN resin)","Dissolved by flux fusion (lithium tetraborate, lithium metaborate, lithium bromide), heated, quenched with HNO3, Sm and Nd of spiked aliquot separated with Eichrom LN Resin",NULL,metal_isotope
+300,LTMF_HNO3(2%),"Lithium tetraborate/metaborate fusion, 2% HNO3","Lithium tetraborate (Li2B4O7) and/or metaborate (LiBO2) fusion, followed by dilute nitric (HNO3) acid digestion. See e.g. LabWest method AF-03",NULL,NULL
+190,LTMF_HNO3(5%),"Lithium tetraborate/metaborate fusion, 5% HNO3","Lithium tetraborate (Li2B4O7) and/or metaborate (LiBO2) fusion, followed by dilute nitric (HNO3) acid digestion. See e.g. Actlabs method FUS-ICP, FUS-MS",NULL,NULL
+301,LTMF_HNO3(dil),"Lithium tetraborate/metaborate fusion, dilute HNO3","Lithium tetraborate (Li2B4O7) and/or metaborate (LiBO2) fusion, followed by dilute nitric (HNO3) acid digestion. See e.g. LabWest method AF-04 (no strength mentioned)",NULL,NULL
+164,LaserFluor,Laser fluorination,"Extraction of oxygen with laser and fluorinating agent (e.g. BrF5), for isotopic analysis",NULL,NULL
+17,LeachFurnace,Leach and furnace (SGS method),See CSA04V method of SGS,NULL,NULL
+210,Lord1982,Pyrite sensu Lord 1982,"Pretreatment with citrate-bicarbonate-dithionite solution, followed by a hydrofluoric-boric acid solution, quantitatively dissolved in quartz-distilled nitric acid, atomic absorption spectrophotometry.",NULL,NULL
+102,MA,"Multi-acid digestion, details unknown","Multi acid digestion, details unknown",NULL,element
+36,MA2,HNO3/HF,Two-acid digestion with nitric acid and hydrofluoric acid,NULL,element
+327,MA2/H202_AE/CE,"HNO3/HF digest, H202, HNO3/HCl, anion exchange (AG1X8 resin), cation exchange (50W-X8 resin).","Digest in HF/HNO3, double spike, treated with H2O2, dissolved in HCl and HNO3, anion exchange chromatography Eichrom AG1-X8 resin (HCl eluent), cation exchange chromatography  Eichrom 50W-X8 (HNO3 eluent). See Ossa Ossa et al. 2022 refs therein.",NULL,metal_isotope
+276,MA2_2CE,"HF/HNO3, two-step cation exchange chromatography (Sm Nd with LN resin)","Dissolved in HF-HNO3, +/-HNO3 and HCl added, REE/LREE by cation exchange before Sm and Nd using Eichrom LN Resin",NULL,metal_isotope
+352,MA2_AE,"HF/HNO3, anion exchange chromatography (AG1X8 resin), sample-standard bracketing","HNO3/HCl/HF, anion exchange chromatography with AG1 X8 or AG MP-1 resin, sample-standard bracketing.",NULL,NULL
+166,MA2_AE(HBr-HCl),"HF/HNO3, converted with HCl, dissolved in HBr, anion exchange chromatography","HF and HNO3 digest, to chlorides with HCl, dissolved in HBr, anion exchange BioRad AG-1X8 resin. See Kamber and Gladu 2009",NULL,metal_isotope
+273,MA2_AE/CE,"HNO3/HF, anion exchange (AG1X8 resin), cation exchange (AG50W-X8 resin)","HF/HNO3 digestion, followed by two-step anion exchange AG1-X8 resin and cation exchange AG50W-X8 resin. See e.g. Barling et al. 2001, Duan et al. 2010.",NULL,metal_isotope
+158,MA2_H3BO3,"HF/HNO3, neutralized with H3BO3","NOT USED Digest with HF and HNO3, neutralization with boric acid to retain Si",NULL,NULL
+92,MA2b,HCl/HF,Two-acid digestion with hydrochloric acid and hydrofuoric acid,NULL,element
+196,MA2b_ZnBR_SOX,"HCl/HF, heavy liquid sep in ZnBr, soxhlet type extraction","Treated with acid (HCl/HF) followed by heavy-liquid separation in a zinc bromide solution, followed by solvent extraction by Soxhlet",NULL,NULL
+135,MA2b_ZnBr,"HCl/HF,  heavy liquid separation in ZnBr","Multi acid digestion to remove carbonate and silicates, followed by heavy liquid separation to separate kerogen",NULL,NULL
+107,MA2c,HClO4/HF,NOT USED Two-acid digestion with perchloric acid and hydrofluoric acid,NULL,element
+114,MA2d,HF/H2SO4 (CMIBS method),Two-acid digestion with hydrofluoric acid and sulfuric acid (originally a CMIBS method),NULL,element
+136,MA2e,HClO4/H3PO4,Two acid digestion with perchloric and phosphoric acid,NULL,element
+192,MA2g,HNO3/HCl,NOT USED Digest in HNO3/HCl,NULL,element
+220,MA2g/BrCl_AE,"HNO3/HCl and BrCl digest, anion exchange chromatography","HNO3/HCl/BrCl digest, anion exchange AG1-X4 resin chromatography ",NULL,metal_istotope
+235,MA2g_AE,"HNO3/HCl, HCl(6M), anion exchange chromatography (AG1X8 resin)","HCl/HNO3, double spike, re-dissolved in 6M HCl, one-step anion exchange Eichrom AG1-X8 resin (HCl eluent). See Ossa Ossa et al. 2022, König et al. 2019.",NULL,metal_isotope
+252,MA2h,HF/AR,Hydroflouric acid and aqua regia,NULL,element
+265,MA2h_AE/CE,"HF/AR, anion and cation exchange chromatography","Digest in HF and aqua regia, double spike, ammonium persulfate ((NH4)2S2O8), anion exchange AG1-X8 resin, cation exchange AG50-WX8 resin",NULL,metal_isotope
+20,MA3,HNO3/HCl/HF,"Three acid digestion with nitric acid, hydrochloric acid and hydrofluoric acid",NULL,element
+227,MA3_AE,"HNO3/HCl/HF, anion exchange chromatography (AG1X8 or AGMP1 resin), sample-standard bracketing","HNO3/HCl/HF, anion exchange chromatography with AG1 X8 or AG MP-1 resin, sample-standard bracketing.",NULL,metal_isotope
+234,MA3_AE/CE,"HNO3/HCl/HF, anion exchange (AG1X8 resin), cation exchange (AG50W-X8 resin)","HF/HNO3/HCl digestion, followed by two-step anion exchange AG1-X8 resin and cation exchange AG50W-X8 resin. See e.g. Barling et al. 2001, Duan et al. 2010.",NULL,metal_isotope
+96,MA3_AR,"HNO3/HCl/HF, AR","Three-acid digestion with nitric acid, hydrochloric acid and hydrofluoric acid followed by aqua regia digest",NULL,element
+304,MA3_H2O2,"HNO3/HCl/HF, H2O2",HNO3/HCl/HF followed by H2O2 to remove organic residues,NULL,element
+207,MA3_IE,"HF/HNO3/HCl, ion exchange chromatography (UTEVA resin)","Digestion by HF/HNO3/HCl, ion exchange chromatography UTEVA resin",NULL,metal_isotope
+52,MA3b,HF/HNO3/HClO4,"Three acid digestion with hydrofluoric acid, nitric acid and perchloric acid",NULL,element
+268,MA3b_2CE,"HF/HNO3/HClO4, HCl/HNO3, two-step cation exchange chromatography  (AG50W-X12 resin)","HF/HNO3/HClO4 digest, conc HCl and HNO3, two column cation exchange chromatography AG 50W-X12 resin. See Pogge von Strandmann et al. 2011, James and Palmer 2000.",NULL,metal_isotope
+326,MA3b_3CE,"HF/HNO3/HClO4 digest, HCl/HNO3, three cation exchange chromatography","HF and HNO3, followed by HNO3 and HCl (+/- perchloric acid), three-column cation exchange AG 50W-X12 resin chromatography. See Moriguti and Nakamura 1998 (first three columns)",NULL,metal_isotope
+362,MA3b_AE/CE,"HF/HNO3/HClO4, anion exchange (AG1X8 resin), cation exchange (AG50W-X8 resin)","HF/HNO3/HCl digestion, followed by two-step anion exchange AG1-X8 resin and cation exchange AG50W-X8 resin",NULL,NULL
+171,MA3b_AR,"HNO3/HF/HClO4, AR","Three-acid digestion with nitric acid, hydroflouric acid and perchloric acid, taken up and dissolved in AR",NULL,element
+290,MA3b_AR_AE,"HNO3/HF/HClO4, aqua regia, anion exchange chromatography (AGMP1 resin), sample-standard bracketing","HNO3/HF/HClO4, AR, anion exchange chromatography",NULL,metal_isotope
+93,MA3b_H3BO3,"HNO3/HF/HClO4 digest, H3BO3","Acid digestion with nitric acid, hydrofluoric acid, perchloric acid and boric acid (used to prevent formation of Al complexes).",NULL,element
+341,MA3b_IE,"HF/HNO3/HClO4, ion exchange chromatography (UTEVA resin)","Three acid digestion with hydrofluoric acid, nitric acid and perchloric acid, followed by ion exchange chromatography with UTEVA resin. See e.g. Weyer et al. 2008.",NULL,metal_isotope
+83,MA3b_TCF,"HF/HClO4/HNO3, TCF filter (Method D of Stüeken et al. 2013)","HF-HClO4-HNO3 digest, filtered with thiol cotton fibers (TCF), Se desorbed with HNO3 redissolved in HCl for analysis. Method D of Stüeken et al. 2013.",NULL,metal_isotope
+89,MA3b_TCF+/-AR,"HF/HClO4/HNO3, TCF filter +/- Aqua regia (Average of Method D and Method E of Stüeken et al. 2013)","HF-HClO4-HNO3 digest, filtered with thiol cotton fibers (TCF), +/- treatment with Aqua Regia, Se desorbed with HNO3 and redissolved in HCl for analysis. Average of Method D and Method E of Stüeken et al. 2013.",NULL,metal_isotope
+86,MA3b_TCF_AR,"HF/HClO4/HNO3, TCF filter, Aqua Regia (Method E of Stüeken et al. 2013)","HF-HClO4-HNO3 digest, filtered with thiol cotton fibers (TCF), treated with Aqua Regia, Se desorbed with HNO3 partially evaporated and redissolved in HCl for analysis. Method E of Stüeken et al. 2013.",NULL,metal_isotope
+162,MA3d,HNO3/HF/AR,"NOT USED Acid digestion in HNO3 and HF, Aqua Regia",NULL,element
+14,MA4,HNO3/HClO4/HF/HCl,"Four acid digestion with nitric acid, perchloric acid, hydrofluoric acid and hydrochloric acid. Common commercial lab method see e.g. MA200, MA250, Ultratrace 4",NULL,element
+366,MA4(unk),"Four-acid digest, details unknown","Four-acid digest, details unknown",NULL,NULL
+115,MA4_IE,HF/HCl/HNO3/HClO4 and ion exchange separation.,"Four acid digestion with hydrofluoric acid, hydrochloric acid, nitric acid and perchloric acid and ion exchange separation",NULL,metal_istopes
+329,MA4_IE(TRUresin),"HF/HCl/HNO3/HClO4, ion exchange separation (TRU resin)","Four acid digestion with hydrofluoric acid, hydrochloric acid, nitric acid and perchloric acid, ion exchange separation with TRU resin for uranium isotopes. See Dang et al. 2016, 2018.",NULL,metal_isotope
+160,MA4c,HF/HNO3/AR/HCl,"NOT USED Digestion in HF and HNO3, followed by digestion in aqua regia, and HCl",NULL,element
+40,MA5,HNO3/HClO4/HF/H3BO3/HCl,"Five acid digestion with nitric acid, perchloric acid, hydrofluoric acid, boric acid and hydrochloric acid",NULL,element
+121,MA_HF,Multi-acid digestion with HF (CMIBS method),Multi-acid digestion with hydrofluoric acid (originally a CMIBS method),NULL,element
+303,M_MA3,"Microwave digest, HNO3/HCl/HF","Microwave digest followed by three acid digestion with nitric acid, hydrochloric acid and hydrofluoric acid",NULL,element
+320,M_MA3_H202,"Microwave digest, HNO3/HCl/HF, H2O2","Microwave digest followed by three acid digestion with nitric acid, hydrochloric acid and hydrofluoric acid, followed by addition of H2O2 to remove organics",NULL,element
+193,M_MA4,Microwave + acid digest (Labwest method),Microwave assisted HF-based 4-acid digest (originally a Labwest method),NULL,element
+248,MeOH_2CE,"Methanol/ultrasonic cleaning, two-stage cation exchange chromatography (AG50W-X12 resin)","Methanol (+/-ultrasonic) followed by two column cation exchange chromatography AG 50W-X12 resin (HCl as eluent). See Pogge von Strandmann et al. 2011, James and Palmer 2000.",NULL,metal_isotope
+258,MeOH_NH4OAc(0.2M)_AcOH(0.5M)_CE,"Methanol, 0.2M ammonium acetate, 0.5M acetic acid, cation exchange (Sr Spec resin)","Methanol, 0.2 M ammonium acetate, 0.5 M acetic acid at room temperature for 2 h to dissolve the calcite fraction, cation exchange chromatography with Eichrom Sr Spec resin",NULL,metal_isotope
+133,NH4Ac(0.2M)_AcOH(0.5M)_CE,"0.2M ammonium acetate, 0.5M acetic acid, cation exchange (Sr Spec resin)","0.2 M ammonium acetate (pH approx. 8.2), 0.5M acetic acid, cation exchange  with Eichrom Sr Spec resin",NULL,metal_isotope
+215,NH4Ac(1M),1M ammonium acetate ,Digestion using 1 M ammonium acetate solution,NULL,carbonate_proxy
+342,NH4Ac(1M)_2IE(REresin),"NH4Ac(1M), ion exchange chromatography (RE resin)","Digestion using 1 M ammonium acetate solution, two step ion exchange chromatography using RE Resin (Triskem)",NULL,metal_isotope
+253,NH4Ac(1M)_HCl(0.05NSeq)_CE,"1M ammonium acetate, 0.05N HCl in 4hr/2hr/10min seq. steps, cation exchange (AG50W-X12 resin)","leached in 1M ammonium acetate, dissolved in three steps (4h, 2h and 10 minutes) into a 0.05N hydrochloric acid solution [..] redissolved in 6N HCl, cation exchange chromatography AG50W-X12 resin",NULL,metal_isotope
+340,NH4Ac(1M)_IE,"1M NH4Ac, ion exchange chromatography",blahblah,NULL,metal_isotope
+368,NH4Cl(2MSeq),2M NH4Cl sequential extraction,"Fish debris extraction sensu Schenau & De Lange, 2000. 2 M NH4Cl multiple times.",NULL,NULL
+163,NH4HF2,Digestion with NH4HF2,Digestion with NH4HF2 according to the method of Zhang et al. 2012,NULL,NULL
+289,NH4VO3/HF_K2CrO4,Ammonium metavanadate/HF acid digestion with K2CrO4,Ammonium metavanadate/HF acid digestion with K2CrO4,NULL,NULL
+109,Na2CO3/ZnOFus,Sodium carbonate and zinc oxide sinter digestion. (CMIBS method),Sodium carbonate (Na2CO3) and zinc oxide (ZnO) sinter digestion (originally a CMIBS method).,NULL,NULL
+76,Na2O2Fus,Sodium peroxide sinter/fusion,Sodium peroxide sinter/fusion,NULL,NULL
+105,NaCl(rep)/HCl/BaCl2,"NaCl (repeated leaches), HCl, BaCl2 (Wotte et al. 2012)","Repeated NaCl leaching, HCl, precipitation of BaSO4 with BaCl2. Method of Wotte et al. 2012.",804,NULL
+313,NaCl/HCl/BaCl2,"NaCl (single leach), HCl, BaCl2","Single leach with NaCl, HCl, precipitation of BaSO4 with BaCl2. ",NULL,NULL
+48,NaCl/NaOCl/HCl,"NaCl and NaOCl(bleach), HCl","Treated with NaCl and NaOCl, HCl",NULL,NULL
+33,NaCl/NaOCl/HCl/BaCl2,"NaCl and NaOCl(bleach), HCl, BaCl2","Treated with NaCl and NaOCl, HCl, BaCl2 to precipitate BaSO4.",NULL,NULL
+346,NaOAc(1M),1M sodium acetate (AcOH buffered),"1M sodium acetate, pH 4 with acetic acid",NULL,NULL
+267,NaOAc(1M)_2CE,"1M sodium acetate (AcOH buffered), two stage cation exchange chromatography  (AG50W-X12 resin)","weak leach of 1 M Na acetate buffered to pH 5 with acetic acid, two-column cation exchange chromatography AG 50W-X12 resin HCl as an eluent. See Pogge von Strandmann 2011, James and Palmer 2000.",NULL,metal_isotope
+213,NaOAc(1M)_IE,"1M sodium acetate, ion exchange chromatography (UTEVA resin)","Selective digest in 1M sodium acetate buffer solution, ion exchange chromatography with UTEVA resin",NULL,metal_isotope
+174,NaOAc(1M)_MA3b,"Sum of extract first with sodium acetate, followed by HF/HNO3/HClO4 digestion",Sequential extraction modified SeqA acetate extraction followed by multi-acid (nitric/hydrofluoric/perchloric) digestion. See Adeboye et al. 2020.,NULL,NULL
+314,NaOCl/HCl/BaCl2,"NaOCl(bleach), HCl, BaCl2 (summary in Gill et al. 2008)","Treated with sodium hypochlorite (NaOCl), HCl, BaCl2 to precipitate BaSO4. Modified Burdett et al. (1987) method, as summarized in Gill et al. (2008).",805,NULL
+117,NiS_FA,NiS fire assay chemical separation. (CMIBS method),NiS fire assay chemical separation (originally a CMIBS method),NULL,NULL
+204,Oriented mount,Oriented mount,Oriented mount for XRD,NULL,NULL
+101,Part_digest,Partial digestion (NGDB method),"Partial digestion, no details provided (originally a NGDB method)",NULL,NULL
+118,PbO_FA,PbO fire assay chemical separation (CMIBS method),PbO fire assay chemical separation (originally a CMIBS method),NULL,NULL
+199,Polished briquette,Polished briquette,"Mounted in plastic/resin, ground and polished (typically to 0.05 µm) for reflected-light petrography and vitrinite/bitumen reflectance see e.g. ASTM D2797/D7708.",NULL,NULL
+128,Pressed pellet,Pressed powder pellet,"Pressed powder pellet, mostly for XRF analysis, also SEM-EDS. Various preparation methods. ",NULL,NULL
+124,RC,Radiochemical separation (CMIBS method),Radiochemical separation (originally a CMIBS method),NULL,NULL
+191,Random mount,Random/unoriented mount,Random/unoriented powder mount for XRD,NULL,NULL
+322,Raw powder,Raw powder,"Raw powder, no preparation. For XRF may be covered with a thin film.",NULL,NULL
+51,Roast_380deg,Roasted at 380degC,Roasted at 380degC,NULL,NULL
+177,Roast_850deg,Roasted at 850degC,Roasted at 850degC,NULL,NULL
+323,Rock surface,"Rock surface (cut, sometimes polished)","Rock surface, mostly cut and sometimes polished, for direct XRF analysis",NULL,NULL
+194,SOX(DCM),Soxhlet type extraction with dichloromethane,Soxhlet type extraction with dichloromethane,NULL,NULL
+153,SOX(DCM)_MA2b,"Soxhlet dichloromethane-extraction, HF/HCl",Dichloromethane-extraction procedure (modified from Durand and Nicaise 1980) followed by HF-HCl treatment,NULL,NULL
+243,SOX(DCM)_MA3,"Soxhlet dichloromethane-extraction, HF/HCl/HNO3","Dichloromethane-extraction procedure, followed by HCl, HF and HCl, and HNO3 digests",NULL,NULL
+315,SOX(TCM),Soxhlet type extraction with trichloromethane (aka chloroform),Soxhlet type extraction with trichloromethane (aka chloroform),NULL,NULL
+3,SeqA,"Sodium acetate extraction, 48hr, 50degC (Poulton and Canfield 2005)",1M sodium acetate solution (at 50degC) buffered with acetic acid to pH 4.5 for 48 hours,2,iron_sulfur
+1,SeqA(24h),"Sodium acetate extraction, 24hr",1M sodium acetate solution buffered with acetic acid to pH 4.5 for 24 hours,2,iron_sulfur
+143,SeqA(RoomTemp),"Sodium acetate extraction, 48hr, room temperature","1M sodium acetate solution buffered with acetic acid to pH 4.5 for 48 hours, at room temperature",NULL,iron_sulfur
+358,SeqABphos,"1 M Na-­acetate (pH=4), 1 M MgCl2(pH=8)","1.0 (+/-0.1) g of powdered sample to 60 mL solution ratio shaken in 1 M Na-­acetate (pH=4), 1 M MgCl2(pH=8), and DI water (mod of Anderson and Delaney 2000, see Beaty 2025)",NULL,NULL
+54,SeqAphos,"CDB pH 7.6 8h (Ruttenberg 1992, Thompson et al. 2019)","0.3 M sodium-citrate, 1 M sodium bicarbonate, and 0.14 M sodium dithionite (pH = 7.6) for 8h",244,sedex
+4,SeqB,"Sodium dithionite extraction, 2hr (Poulton and Canfield 2005)",2 hrs with 50g/L sodium dithionite solution buffered with 0.35M acetic acid and 0.2M sodium citrate to pH4.8,2,iron_sulfur
+30,SeqB(6h),"Sodium dithionite extraction, 6hr","Citrate-buffered (pH 4.8) sodium dithionite solution, 6hr (modified step in Poulton and Canfield 2005 sequential extraction)",NULL,iron_sulfur
+57,SeqBphos,"Na Acetate pH 4.0 6h (Ruttenberg 1992, Thompson et al. 2019)",1 M sodium acetate (pH = 4.0) 6h,244,sedex
+5,SeqC,"Ammonium oxalate extraction, 6hr (Poulton and Canfield 2005)",6hrs with 0.2M ammonium oxalate and 0.17M oxalic acid solution buffered with ammonium hydroxide to pH 3.2,2,iron_sulfur
+223,SeqC+Ephos_Guilbaud,SeqC_phos + MA5 after SeqD_phos,"HNO3-HF-HClO4-H3BO3-HCl extraction after SeqD_phos. Step added in Guilbaud et al. 2020 - assume is summed with the amount from SeqC_phos for the total ""P-det"" in the data sheet. See discussion in supp info of Guilbaud et al. 2020.",NULL,sedex
+58,SeqCphos,"1M HCl 16hr (Ruttenberg 1992, Thompson et al. 2019)",1 M HCl 16h,244,sedex
+59,SeqDphos,"Ash 550decC, HCl (Ruttenberg 1992).",1 M HCl after ignition at 550degC,244,sedex
+147,SeqDphos(mod),Ammonium oxalate 6h (Thompson et al. 2019),Ammonium oxalate extraction for 6h.Takes place after SeqC_phos.,240,sedex
+148,SeqEphos(mod),CDA ph 4.8 6h (Thompson et al. 2019),Sodium citrate-dithionite-acetate extraction (ph 4.8) for 6hrs. Takes place after SeqD_phos_mod,240,sedex
+149,SeqFphos(mod),"Ash 550degC, 1M HCl 6h (Thompson et al. 2019)","Ashed at 550degC, then 1M HCl for 6hrs. Equivalent method to SeqD_phos, but takes place after SeqE_phos_mod.",240,sedex
+25,SeqOBS,Sequential sulfur extraction AVS/CRS/CB/BaCl2,"Sequential wet chemical extraction for organically-bound sulfur - AVS with cold HCl, CRS, combustion, precipitation as BaSO4 using BaCl2 +/- treatment with NaCl",NULL,iron_sulfur
+230,SeqPy_AE,"Seq extract of pyrite with HNO3, anion exchange (AGMP1 resin), sample-standard bracketing","Fe-py extracted using 16 M HNO3 (after extraction of oxides/clay via HCl, aluminosilicate via HF), anion exchange chromatography with AGMP-1 resin, sample-standard bracketing. Procedure as in Arnold et al. 2004.",NULL,metal_isotope
+359,SeqResPhos,Multi-acid after sequential phos extraction,Multi-acid extraction (MA3) for residual phos extraction after sequential extraction steps (see also SeqC+Ephos_Guilbaud),NULL,NULL
+125,Sinter,"Sinter, unspecified (CMIBS method)","Sinter, unspecified (originally a CMIBS method)",NULL,element
+100,Tot_digest,Total digestion (NGDB method),"Total digestion, no details provided. (originally a NGDB method)",NULL,element
+127,WO_H2SO4,Wet oxidation with H2SO4 (CMIBS method),Wet oxidation with H2SO4 (originally a CMIBS method),NULL,carbon
