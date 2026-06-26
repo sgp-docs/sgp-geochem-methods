@@ -44,12 +44,13 @@ prep_id,prep_translation,prep_material
 19,Porcelain mortar and pestle,porcelain
 54,Rubber mortar,rubber
 11,SPEX mixer/ball mill,n/a
-79,Shatterbox (indet),NULL
+79,Shatterbox (indet),n/a
 24,Siebtechnik mill,n/a
 12,Silicon nitride (ceramic) ball mill,silicon nitride
 59,Steel ball mill,steel
 74,Steel disc mill,steel
 77,Steel drill (Ti-Al hardened),steel
+82,Steel hammer and tungsten carbide mill,steel and tungsten carbide
 40,Steel jaw crusher and shatterbox,steel
 26,Steel mill,steel
 27,Steel mortar (chipped) ceramic mortar (ground),steel
