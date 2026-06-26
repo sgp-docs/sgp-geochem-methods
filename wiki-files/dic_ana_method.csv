@@ -1,0 +1,97 @@
+ana_method_id,ana_method_code,ana_method_translation
+3,AAS,Flame atomic absorption spectroscopy
+103,BR,Bitumen reflectance
+83,CALC,Calculated
+112,CALC_LaNd,Cerium anomaly calculated [Ce/Ce* = 3Ce/(2La+Nd)]
+113,CALC_LaPr,Cerium anomaly calculated [Ce/Ce* = 2Ce/(La+Pr)]
+114,CALC_Pr2Nd,Cerium anomaly calculated [Ce/Ce* = Ce/(Pr^2/Nd)]
+26,CAT,Combustion/amperometric titration
+40,CF-IRMS,Continuous flow mass spectrometry
+33,CHNS-EA,Carbon Hydrogen Nitrogen Sulfur Elemental Analysis
+111,CNS-EA,Carbon Nitrogen Sulfur Elemental Analysis
+55,COLOR,Colorimetry (USGS/CMIBS method)
+19,COUL,Coulometric analysis
+75,COUL_TT,Coulometric titration (CMIBS method)
+109,CRDS,Cavity Ring-Down Spectroscopy
+24,CS-EA,Carbon Sulfur Elemental Analysis
+108,CVAAS,Cold vapour atomic absorption spectroscopy
+32,DCP-OES,DCP optical emission spectroscopy
+59,DNAA,Delayed neutron activation analysis (USGS/CMIBS method)
+54,DNC,Delayed neutron counting
+101,DS_ID,Calculated using double spike isotope dilution
+20,EA,Elemental analysis
+2,EA-CF-IRMS,Elemental analyzer-continuous flow isotope ratio mass spectrometry
+49,EA-IRMS,Elemental analysis-isotope ratio mass spectrometry
+67,ED-XRF,Energy-dispersive X-ray fluorescence (CMIBS method)
+66,EDEM,Energy dispersive electron microprobe analysis (CMIBS method)
+68,EM,Electron microprobe analysis (CMIBS method)
+69,ES,Emission spectrography.
+70,ES_Q,Quantitative emission spectrography (CMIBS method)
+71,ES_SQ,Semi-quantitative emission spectrography (CMIBS method)
+62,FA,Fire assay
+61,FLOUR,Flourometry (USGS/CMIBS method)
+1,FSP,Ferrozine spectrophotometry
+105,GC-FID,Gas chromatography flame ionization detection 
+82,GC-IRMS,Gas chromatography IRMS
+79,GC:MS,Gas chromatography MS
+60,GR,Gamma ray (USGS/CMIBS method)
+73,GR-INAA,Prompt gamma ray count INAA (CMIBS method)
+56,GRAV,Gravimetric
+78,GRAV_FLUX,Heating and weight change with flux (CMIBS method)
+91,HAWK,HAWK pyrolysis
+28,HHXRF,Hand-held XRF
+92,HgAna,Mercury analysis
+63,IC,Ion chromatography (USGS/CMIBS method)
+6,ICP,Inductively coupled plasma
+7,ICP:ES,ICP emission spectroscopy (ICP:ES/ICP:AES/ICP:OES)
+8,ICP:ES/MS,ICP emission spectroscopy and/or mass spectrometry
+13,ICP:MS,ICP mass spectrometry
+14,ICP:MS-HR,ICP mass spectrometry high-resolution
+15,ICP:MS-ID,ICP mass spectrometry isotope dilution
+16,ICP:MS-LA,ICP mass spectrometry laser ablation
+18,ICP:MS-MC,ICP mass spectrometry multicollector
+115,ICP:MS/ICP:MS-MC,ICP mass spectrometry and/or mass spectrometry multicollector
+100,ID-NTIMS,Isotope dilution NTIMS
+46,INAA,Instrumental neutron activation analysis
+23,IR,Infrared
+37,IRMS,Isotope ratio mass spectrometry
+58,ISE,Ion selective electrode (USGS/CMIBS method)
+72,LC-INAA,Long count instrumental neutron activation analysis (CMIBS method)
+94,LOI,Loss on ignition
+52,LQS,Large quartz spectrograph
+21,MB,Methylene blue
+30,ML,Mass loss on acidification
+80,MassBal,Mass balance
+27,MolyB,Molybdate-blue method
+90,N/A,Not available
+53,NAA,Automated neutron activation analysis
+104,NIR,Near-infrared spectroscopy
+38,NTIMS,Negative thermal ionization mass spectrometry
+85,Q-ICP:MS,Quadrupole ICP:MS
+93,QQQ-ICP:MS,"ICP mass spectrometry, triple quadrupole"
+41,REP,Rock-Eval pyrolysis
+74,SC-INAA,Short count instrumental neutron activation analysis (CMIBS method)
+110,SEM-EDS,SEM energy dispersive X-ray spectroscopy
+95,SIE,Specific ion electrode
+96,SIMS,Secondary ion mass spectrometry
+45,SN-ICP:MS,Solution nebulized ICP:MS
+84,SRA,Soure Rock Analysis
+51,SSMS,Spark source mass spectrometry
+22,STOICH,Stoichiometry
+65,TC,Thermal conductivity detection (CMIBS method)
+42,TC-TIC,TOC by difference
+35,TC-TOC,TIC by difference
+50,TIMS,Thermal ionization mass spectrometer
+99,TIMS/ICP:MS-MC,Thermal ionization mass spectrometer and/or ICP mass spectrometry multicollector
+102,TS-NAVS,AVS calculated by difference
+116,TS-S-py,Organic sulfur by difference
+106,TS-other sulfur,Pyrite sulfur by difference
+57,TTR,Titration
+25,UV-Vis,UV-Vis spectrophotometry
+107,VD,Vacuum distillation
+76,VOL,CO2 by evolution after acid decomposition or wet oxidation; aka gasometric or manometric.
+81,VR,Vitrinite reflectance
+77,WC,Wet chemical analysis (CMIBS method)
+5,XRD,X-ray diffraction
+97,XRD/SEM-EDS,X-ray diffraction + SEM-EDS
+4,XRF,X-ray flourescence
